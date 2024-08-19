@@ -1,47 +1,60 @@
-# 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# Previsão de Estoque Inteligente na AWS com SageMaker Canvas
+## Visão Geral
+Este projeto visa criar um modelo de previsão de tráfego de páginas usando o SageMaker Canvas. Utilizei um dataset de tráfego com 1000 dados aleatórios criados em Python para treinar e testar o modelo. O objetivo é prever quais páginas serão mais acessadas nos próximos dias.
 
-Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). Siga os passos abaixo para completar o desafio!
+## Pré-requisitos
+Conta AWS
 
-## 📋 Pré-requisitos
+SageMaker Canvas
 
-Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda para criar sua conta, confira nosso repositório [AWS Cloud Quickstart](https://github.com/digitalinnovationone/aws-cloud-quickstart).
+Conhecimento básico em Python e Machine Learning
 
+## Dataset
+O dataset utilizado contém informações sobre o tráfego de páginas da web e foi gerado aleatoriamente usando Python. As principais colunas do dataset são:
 
-## 🎯 Objetivos Deste Desafio de Projeto (Lab)
+Data: Data da visita.
 
-![image](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650)
+Visitas: Número de visitas registradas.
 
-- Dê um fork neste projeto e reescreva este `README.md`. Sinta-se à vontade para detalhar todo o processo de criação do seu Modelo de ML para uma "Previsão de Estoque Inteligente".
-- Para isso, siga o [passo a passo] descrito a seguir e evolua as suas habilidades em ML no-code com o Amazon SageMaker Canvas.
-- Ao concluir, envie a URL do seu repositório com a solução na plataforma da DIO.
+Fonte_trafego: Origem do tráfego (e.g., busca orgânica, social media).
 
+Dia_da_semana: Dia da semana da visita.
 
-## 🚀 Passo a Passo
+Hora: Hora do dia da visita.
 
-### 1. Selecionar Dataset
+Passo a Passo
 
--   Navegue até a pasta `datasets` deste repositório. Esta pasta contém os datasets que você poderá escolher para treinar e testar seu modelo de ML. Sinta-se à vontade para gerar/enriquecer seus próprios datasets, quanto mais você se engajar, mais relevante esse projeto será em seu portfólio.
--   Escolha o dataset que você usará para treinar seu modelo de previsão de estoque.
--   Faça o upload do dataset no SageMaker Canvas.
+#### 1. Selecionar Dataset
+Dataset Utilizado: Dataset de tráfego com 1000 dados aleatórios.
+Processo: O dataset foi criado utilizando Python e contém informações sobre visitas às páginas da web.
+#### 2. Construir/Treinar
+Importação: O dataset foi importado para o SageMaker Canvas.
 
-### 2. Construir/Treinar
+Configuração: O modelo foi configurado para prever a página mais acessada. As variáveis de entrada e saída foram configuradas conforme as colunas mais impactantes:
 
--   No SageMaker Canvas, importe o dataset que você selecionou.
--   Configure as variáveis de entrada e saída de acordo com os dados.
--   Inicie o treinamento do modelo. Isso pode levar algum tempo, dependendo do tamanho do dataset.
+Data
 
-### 3. Analisar
+Visitas
 
--   Após o treinamento, examine as métricas de performance do modelo.
--   Verifique as principais características que influenciam as previsões.
--   Faça ajustes no modelo se necessário e re-treine até obter um desempenho satisfatório.
+Fonte_trafego
 
-### 4. Prever
+Dia_da_semana
 
--   Use o modelo treinado para fazer previsões de estoque.
--   Exporte os resultados e analise as previsões geradas.
--   Documente suas conclusões e qualquer insight obtido a partir das previsões.
+Hora
 
-## 🤔 Dúvidas?
+Treinamento: O treinamento do modelo foi iniciado com o dataset configurado.
 
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+#### 3. Analisar
+Métricas de Desempenho: Após o treinamento, foram analisadas as métricas de desempenho do modelo para avaliar sua eficácia.
+Características de Impacto: As colunas identificadas como mais impactantes foram:
+Data
+Visitas
+Fonte_trafego
+Dia_da_semana
+Hora
+Ajustes: Ajustes foram feitos no modelo para melhorar a precisão das previsões.
+#### 4. Prever
+Previsão: O modelo previu que a página 9 será a mais acessada nos próximos dias.
+Análise dos Resultados: Os resultados foram exportados e analisados para confirmar a previsão.
+Conclusões
+O modelo demonstrou ser eficaz na previsão do tráfego de páginas, com a previsão indicando que a página 9 será a mais acessada nos próximos dias. O processo de criação e treinamento do modelo no SageMaker Canvas foi bem-sucedido e forneceu insights úteis sobre o tráfego das páginas.
