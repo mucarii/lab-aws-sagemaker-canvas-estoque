@@ -1,0 +1,1001 @@
+Data,Hora,Página,Visitas,Duração,Fonte_Tráfego,Campanha,Feriado,Dia_da_Semana,Tipo_Dispositivo,Localização,Eventos
+2024-06-10,08:36,/pagina/7,459,6,Email,Sim,Sim,Sexta,Mobile,Brasília,Sim
+2024-07-18,10:52,/pagina/6,894,3,Redes Sociais,Sim,Não,Quarta,Mobile,Brasília,Sim
+2024-11-25,15:10,/pagina/6,907,10,Google,Não,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-03-10,09:09,/pagina/4,611,5,Referral,Sim,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-09-07,02:33,/pagina/1,543,1,Referral,Não,Não,Terça,Mobile,Rio de Janeiro,Sim
+2024-01-29,07:49,/pagina/9,938,1,Referral,Não,Não,Terça,Mobile,Curitiba,Não
+2024-09-03,23:20,/pagina/2,694,5,Email,Não,Não,Quarta,Mobile,Rio de Janeiro,Sim
+2024-04-09,15:54,/pagina/10,363,7,Email,Sim,Sim,Domingo,Mobile,Brasília,Sim
+2024-12-07,07:57,/pagina/3,123,3,Referral,Não,Não,Domingo,Mobile,Rio de Janeiro,Sim
+2024-05-03,04:43,/pagina/4,701,5,Google,Não,Não,Sexta,Desktop,Rio de Janeiro,Sim
+2024-02-11,11:47,/pagina/2,501,1,Redes Sociais,Não,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-04-24,10:54,/pagina/6,513,4,Email,Sim,Não,Domingo,Mobile,Curitiba,Não
+2024-12-19,09:36,/pagina/1,398,1,Email,Não,Não,Sexta,Desktop,São Paulo,Sim
+2024-07-27,12:56,/pagina/7,781,9,Google,Não,Não,Domingo,Desktop,São Paulo,Não
+2024-09-20,22:57,/pagina/5,181,10,Email,Sim,Sim,Sexta,Desktop,Rio de Janeiro,Não
+2024-10-01,08:27,/pagina/10,788,10,Referral,Sim,Não,Quarta,Mobile,São Paulo,Não
+2024-05-16,04:13,/pagina/1,588,6,Email,Sim,Sim,Segunda,Mobile,Rio de Janeiro,Não
+2024-06-05,09:15,/pagina/8,926,7,Google,Sim,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-03-20,00:33,/pagina/2,575,10,Redes Sociais,Não,Não,Quinta,Desktop,Rio de Janeiro,Não
+2024-06-14,21:29,/pagina/7,802,1,Referral,Sim,Sim,Sexta,Desktop,Curitiba,Sim
+2024-05-31,17:51,/pagina/5,884,10,Google,Sim,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-04-06,22:22,/pagina/2,173,7,Email,Sim,Sim,Sábado,Desktop,Brasília,Sim
+2024-09-28,02:02,/pagina/5,907,2,Google,Sim,Sim,Segunda,Desktop,Brasília,Não
+2024-09-05,12:16,/pagina/3,136,1,Google,Não,Sim,Quarta,Desktop,Rio de Janeiro,Não
+2024-10-10,16:29,/pagina/7,374,5,Referral,Sim,Não,Quarta,Mobile,Rio de Janeiro,Não
+2024-11-26,13:57,/pagina/7,569,6,Google,Não,Sim,Domingo,Mobile,Brasília,Não
+2024-02-11,09:45,/pagina/6,336,2,Redes Sociais,Sim,Sim,Sexta,Mobile,Rio de Janeiro,Não
+2024-10-10,05:38,/pagina/2,273,5,Email,Sim,Sim,Quinta,Desktop,Brasília,Sim
+2024-07-03,01:18,/pagina/5,374,7,Email,Sim,Não,Quinta,Desktop,Rio de Janeiro,Não
+2024-04-24,16:15,/pagina/2,759,6,Email,Não,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-08-27,11:23,/pagina/3,681,4,Email,Sim,Sim,Segunda,Mobile,Brasília,Não
+2024-05-22,06:13,/pagina/6,184,3,Referral,Não,Não,Sexta,Mobile,São Paulo,Não
+2024-09-21,03:12,/pagina/9,923,5,Redes Sociais,Não,Sim,Sexta,Desktop,São Paulo,Sim
+2024-10-30,19:37,/pagina/7,852,7,Email,Não,Sim,Sexta,Desktop,São Paulo,Não
+2024-08-20,05:15,/pagina/8,768,4,Redes Sociais,Sim,Sim,Quarta,Desktop,Brasília,Sim
+2024-03-07,04:32,/pagina/7,495,5,Email,Não,Não,Sexta,Mobile,Brasília,Não
+2024-11-23,15:18,/pagina/5,365,9,Referral,Não,Não,Sábado,Mobile,São Paulo,Sim
+2024-08-21,08:26,/pagina/9,533,7,Email,Sim,Não,Segunda,Desktop,São Paulo,Sim
+2024-10-09,18:41,/pagina/8,583,7,Redes Sociais,Não,Sim,Domingo,Mobile,Curitiba,Sim
+2024-07-06,00:11,/pagina/4,810,6,Email,Não,Sim,Quinta,Mobile,Curitiba,Não
+2024-08-24,21:39,/pagina/7,190,7,Redes Sociais,Sim,Sim,Segunda,Mobile,Rio de Janeiro,Sim
+2024-10-04,21:47,/pagina/9,498,2,Email,Não,Sim,Quarta,Mobile,Curitiba,Não
+2024-08-25,16:53,/pagina/6,782,8,Google,Sim,Não,Quarta,Desktop,Curitiba,Não
+2024-02-29,13:33,/pagina/5,310,10,Redes Sociais,Não,Não,Quarta,Mobile,Curitiba,Não
+2024-12-13,19:12,/pagina/4,541,5,Email,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-07-25,19:32,/pagina/7,918,4,Email,Não,Não,Quarta,Mobile,Curitiba,Sim
+2024-04-06,05:21,/pagina/6,712,10,Google,Sim,Não,Quinta,Desktop,São Paulo,Não
+2024-03-21,01:59,/pagina/3,838,1,Referral,Sim,Não,Quinta,Mobile,Brasília,Não
+2024-01-22,05:22,/pagina/5,206,10,Redes Sociais,Não,Sim,Quinta,Mobile,Brasília,Não
+2024-01-31,12:35,/pagina/2,112,6,Referral,Sim,Não,Sexta,Mobile,São Paulo,Não
+2024-07-09,19:47,/pagina/9,984,4,Redes Sociais,Não,Não,Sábado,Desktop,Curitiba,Sim
+2024-01-13,22:00,/pagina/10,179,7,Redes Sociais,Não,Sim,Terça,Desktop,São Paulo,Sim
+2024-11-24,15:36,/pagina/4,893,2,Email,Sim,Sim,Sábado,Desktop,Brasília,Sim
+2024-02-20,21:31,/pagina/4,360,6,Email,Sim,Sim,Segunda,Mobile,Brasília,Não
+2024-08-27,16:05,/pagina/4,250,1,Email,Sim,Não,Segunda,Desktop,Curitiba,Não
+2024-08-02,18:45,/pagina/6,251,10,Redes Sociais,Sim,Sim,Quarta,Mobile,São Paulo,Sim
+2024-09-22,20:17,/pagina/4,874,7,Email,Não,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-07-25,03:46,/pagina/1,623,5,Email,Não,Não,Sexta,Desktop,Rio de Janeiro,Não
+2024-10-18,13:07,/pagina/7,737,4,Google,Não,Sim,Sábado,Mobile,Rio de Janeiro,Não
+2024-12-04,02:54,/pagina/6,271,4,Email,Não,Não,Terça,Mobile,Rio de Janeiro,Sim
+2024-04-11,14:24,/pagina/9,741,7,Email,Não,Sim,Segunda,Desktop,Curitiba,Sim
+2024-11-11,08:22,/pagina/6,535,1,Referral,Sim,Sim,Sábado,Mobile,Brasília,Não
+2024-06-13,11:32,/pagina/8,583,8,Google,Sim,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-09-08,07:51,/pagina/8,846,6,Email,Sim,Sim,Segunda,Mobile,Curitiba,Sim
+2024-08-28,01:26,/pagina/10,330,9,Referral,Não,Sim,Quarta,Mobile,São Paulo,Não
+2024-10-01,04:05,/pagina/6,111,8,Redes Sociais,Sim,Sim,Segunda,Desktop,Brasília,Sim
+2024-07-20,15:58,/pagina/4,293,8,Google,Não,Sim,Segunda,Mobile,Rio de Janeiro,Não
+2024-12-28,07:29,/pagina/8,506,5,Redes Sociais,Sim,Não,Terça,Desktop,Curitiba,Não
+2024-05-14,13:24,/pagina/3,408,6,Redes Sociais,Não,Não,Quarta,Desktop,Curitiba,Sim
+2024-11-14,10:16,/pagina/7,705,9,Referral,Sim,Não,Sexta,Mobile,Brasília,Sim
+2024-12-09,18:16,/pagina/9,265,2,Referral,Não,Não,Sábado,Desktop,Brasília,Sim
+2024-11-06,00:40,/pagina/9,974,3,Referral,Sim,Sim,Segunda,Desktop,Rio de Janeiro,Sim
+2024-09-19,20:24,/pagina/1,267,10,Redes Sociais,Não,Não,Sexta,Mobile,Rio de Janeiro,Não
+2024-02-29,13:45,/pagina/10,439,4,Referral,Sim,Não,Quinta,Mobile,São Paulo,Não
+2024-03-16,10:30,/pagina/4,547,5,Referral,Sim,Não,Domingo,Desktop,São Paulo,Não
+2024-09-22,22:13,/pagina/2,827,2,Redes Sociais,Não,Sim,Segunda,Mobile,Rio de Janeiro,Sim
+2024-02-19,15:01,/pagina/3,277,6,Referral,Sim,Não,Terça,Mobile,Rio de Janeiro,Não
+2024-07-05,00:48,/pagina/10,867,6,Redes Sociais,Sim,Não,Terça,Mobile,Curitiba,Sim
+2024-08-19,22:54,/pagina/3,338,3,Email,Sim,Não,Sábado,Mobile,Brasília,Sim
+2024-07-30,08:52,/pagina/7,355,7,Redes Sociais,Sim,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-07-03,07:28,/pagina/1,448,4,Google,Não,Sim,Quinta,Mobile,Rio de Janeiro,Sim
+2024-10-22,18:38,/pagina/7,300,1,Email,Não,Não,Domingo,Mobile,São Paulo,Não
+2024-05-07,04:56,/pagina/1,679,10,Referral,Sim,Não,Terça,Mobile,São Paulo,Sim
+2024-04-03,02:19,/pagina/7,279,6,Redes Sociais,Não,Não,Sexta,Desktop,Rio de Janeiro,Não
+2024-02-27,20:11,/pagina/9,761,6,Email,Não,Sim,Terça,Mobile,Rio de Janeiro,Sim
+2024-09-27,09:43,/pagina/3,746,4,Referral,Não,Sim,Domingo,Desktop,Brasília,Sim
+2024-01-20,16:29,/pagina/5,883,7,Redes Sociais,Não,Não,Sexta,Mobile,São Paulo,Não
+2024-04-01,11:59,/pagina/4,228,4,Email,Sim,Sim,Segunda,Mobile,Brasília,Não
+2024-01-27,04:36,/pagina/3,119,9,Referral,Não,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-03-06,09:07,/pagina/4,789,10,Google,Não,Não,Segunda,Mobile,Brasília,Sim
+2024-03-16,20:22,/pagina/2,596,6,Google,Não,Sim,Sábado,Desktop,Brasília,Sim
+2024-07-02,02:47,/pagina/7,833,6,Redes Sociais,Não,Sim,Quarta,Mobile,Rio de Janeiro,Sim
+2024-12-22,03:00,/pagina/4,437,10,Email,Sim,Sim,Sexta,Desktop,Curitiba,Sim
+2024-12-12,13:37,/pagina/6,453,5,Referral,Sim,Sim,Sábado,Mobile,Curitiba,Não
+2024-04-13,02:30,/pagina/9,604,7,Referral,Sim,Não,Segunda,Mobile,São Paulo,Sim
+2024-12-24,09:36,/pagina/6,880,1,Redes Sociais,Não,Não,Domingo,Desktop,Curitiba,Não
+2024-05-18,15:37,/pagina/8,225,1,Email,Sim,Não,Domingo,Mobile,Brasília,Sim
+2024-03-06,08:21,/pagina/9,316,1,Referral,Sim,Sim,Quarta,Desktop,Rio de Janeiro,Não
+2024-01-11,07:07,/pagina/3,984,4,Google,Não,Sim,Quarta,Desktop,Rio de Janeiro,Sim
+2024-08-18,02:25,/pagina/8,983,7,Referral,Não,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-06-16,18:31,/pagina/7,265,8,Redes Sociais,Sim,Não,Segunda,Mobile,Rio de Janeiro,Não
+2024-05-21,12:28,/pagina/6,179,3,Email,Não,Não,Sábado,Mobile,Curitiba,Não
+2024-11-28,09:29,/pagina/7,692,3,Referral,Não,Sim,Quarta,Desktop,Rio de Janeiro,Sim
+2024-11-05,14:11,/pagina/5,655,2,Referral,Sim,Sim,Domingo,Desktop,São Paulo,Não
+2024-02-03,15:21,/pagina/6,915,5,Email,Não,Não,Sexta,Desktop,Rio de Janeiro,Não
+2024-07-14,12:34,/pagina/10,844,4,Google,Sim,Sim,Quinta,Desktop,Brasília,Não
+2024-12-21,11:53,/pagina/6,203,1,Email,Não,Sim,Sexta,Desktop,São Paulo,Não
+2024-12-06,04:24,/pagina/3,581,7,Referral,Sim,Sim,Sábado,Mobile,Curitiba,Sim
+2024-11-17,17:53,/pagina/7,431,5,Email,Sim,Sim,Terça,Desktop,São Paulo,Não
+2024-09-03,09:34,/pagina/8,723,3,Redes Sociais,Sim,Sim,Segunda,Desktop,Brasília,Não
+2024-02-03,18:14,/pagina/7,148,1,Google,Sim,Não,Segunda,Mobile,Rio de Janeiro,Não
+2024-10-20,09:46,/pagina/6,580,8,Email,Sim,Sim,Quarta,Desktop,São Paulo,Não
+2024-06-09,01:57,/pagina/4,336,6,Google,Não,Sim,Domingo,Mobile,Curitiba,Não
+2024-02-18,17:32,/pagina/8,801,1,Referral,Sim,Não,Segunda,Mobile,Brasília,Não
+2024-04-01,07:13,/pagina/7,858,3,Redes Sociais,Não,Sim,Domingo,Desktop,São Paulo,Não
+2024-12-02,21:39,/pagina/6,966,5,Redes Sociais,Sim,Não,Quinta,Desktop,Rio de Janeiro,Não
+2024-08-19,02:50,/pagina/5,878,6,Email,Não,Sim,Terça,Mobile,Rio de Janeiro,Não
+2024-09-12,15:44,/pagina/4,910,7,Redes Sociais,Não,Não,Terça,Mobile,Rio de Janeiro,Sim
+2024-06-10,17:22,/pagina/9,643,9,Google,Não,Sim,Terça,Mobile,Brasília,Não
+2024-09-17,01:02,/pagina/9,242,8,Referral,Não,Não,Terça,Mobile,Curitiba,Não
+2024-01-06,04:48,/pagina/10,302,9,Referral,Não,Não,Quarta,Mobile,Rio de Janeiro,Não
+2024-06-21,17:10,/pagina/9,264,7,Redes Sociais,Sim,Não,Sábado,Desktop,Rio de Janeiro,Sim
+2024-07-04,03:40,/pagina/9,174,4,Redes Sociais,Não,Não,Quinta,Mobile,Brasília,Não
+2024-08-16,15:52,/pagina/10,193,10,Redes Sociais,Não,Não,Sábado,Desktop,São Paulo,Não
+2024-08-04,17:54,/pagina/8,455,4,Redes Sociais,Sim,Sim,Sábado,Mobile,Rio de Janeiro,Sim
+2024-03-03,11:33,/pagina/7,940,2,Redes Sociais,Sim,Não,Domingo,Desktop,São Paulo,Sim
+2024-10-15,15:23,/pagina/2,787,5,Google,Não,Sim,Domingo,Desktop,São Paulo,Sim
+2024-02-17,06:22,/pagina/3,311,10,Google,Não,Sim,Sexta,Desktop,Curitiba,Não
+2024-04-13,16:29,/pagina/8,407,2,Referral,Sim,Não,Sexta,Desktop,Rio de Janeiro,Sim
+2024-09-24,16:22,/pagina/1,361,1,Redes Sociais,Não,Não,Sábado,Desktop,Brasília,Sim
+2024-12-18,19:23,/pagina/7,429,1,Google,Sim,Sim,Segunda,Desktop,Brasília,Sim
+2024-01-18,04:24,/pagina/7,562,3,Referral,Sim,Não,Quarta,Desktop,Curitiba,Não
+2024-11-10,01:13,/pagina/7,499,1,Google,Não,Não,Domingo,Mobile,São Paulo,Sim
+2024-08-06,17:29,/pagina/7,860,1,Email,Sim,Sim,Terça,Mobile,São Paulo,Não
+2024-01-02,04:25,/pagina/9,189,8,Referral,Sim,Sim,Quinta,Mobile,Brasília,Não
+2024-05-16,20:39,/pagina/1,933,7,Redes Sociais,Sim,Sim,Sábado,Desktop,São Paulo,Sim
+2024-03-28,10:57,/pagina/1,948,8,Google,Não,Sim,Domingo,Desktop,São Paulo,Sim
+2024-08-24,13:18,/pagina/6,480,9,Google,Não,Não,Segunda,Mobile,Curitiba,Sim
+2024-04-26,01:31,/pagina/6,500,2,Referral,Não,Sim,Domingo,Mobile,São Paulo,Não
+2024-11-23,17:27,/pagina/9,788,5,Google,Sim,Não,Terça,Mobile,São Paulo,Não
+2024-08-10,04:57,/pagina/1,249,9,Referral,Não,Sim,Terça,Mobile,Rio de Janeiro,Sim
+2024-04-17,03:41,/pagina/5,112,8,Referral,Não,Não,Domingo,Mobile,Curitiba,Sim
+2024-12-06,03:39,/pagina/2,198,9,Email,Sim,Não,Sexta,Desktop,Curitiba,Não
+2024-07-09,10:19,/pagina/8,948,10,Google,Sim,Sim,Sábado,Mobile,São Paulo,Não
+2024-07-21,20:20,/pagina/9,828,10,Redes Sociais,Não,Sim,Sexta,Desktop,Brasília,Não
+2024-07-19,23:22,/pagina/10,756,2,Referral,Não,Não,Quarta,Desktop,Rio de Janeiro,Sim
+2024-12-27,09:53,/pagina/8,691,4,Referral,Não,Não,Terça,Mobile,Rio de Janeiro,Não
+2024-10-08,01:06,/pagina/9,588,6,Redes Sociais,Sim,Sim,Domingo,Mobile,Brasília,Não
+2024-05-12,12:29,/pagina/10,968,6,Referral,Não,Não,Sexta,Mobile,São Paulo,Não
+2024-06-13,21:53,/pagina/1,639,6,Email,Sim,Não,Terça,Desktop,Brasília,Sim
+2024-08-22,10:44,/pagina/8,611,7,Redes Sociais,Não,Não,Sábado,Mobile,Brasília,Sim
+2024-10-29,04:09,/pagina/10,271,2,Redes Sociais,Sim,Sim,Segunda,Mobile,Curitiba,Sim
+2024-03-18,16:02,/pagina/7,174,6,Referral,Não,Sim,Sexta,Mobile,Rio de Janeiro,Sim
+2024-12-15,03:56,/pagina/9,870,6,Email,Não,Sim,Domingo,Mobile,São Paulo,Não
+2024-02-09,08:48,/pagina/2,434,5,Referral,Sim,Não,Quarta,Desktop,Rio de Janeiro,Não
+2024-09-23,15:08,/pagina/3,634,2,Google,Sim,Sim,Segunda,Desktop,Rio de Janeiro,Sim
+2024-03-23,18:31,/pagina/5,157,3,Google,Não,Não,Quinta,Mobile,Brasília,Sim
+2024-07-12,11:51,/pagina/4,469,7,Referral,Sim,Não,Quinta,Mobile,Curitiba,Sim
+2024-06-25,23:17,/pagina/9,698,3,Google,Não,Sim,Terça,Mobile,Curitiba,Não
+2024-11-01,15:30,/pagina/3,478,2,Referral,Sim,Sim,Domingo,Mobile,Curitiba,Sim
+2024-08-25,03:51,/pagina/3,452,6,Referral,Sim,Sim,Domingo,Desktop,Curitiba,Não
+2024-01-26,05:25,/pagina/9,388,10,Referral,Não,Sim,Sábado,Mobile,Curitiba,Não
+2024-02-08,19:14,/pagina/5,965,3,Email,Não,Sim,Sexta,Mobile,Rio de Janeiro,Não
+2024-12-18,19:10,/pagina/7,874,6,Email,Não,Não,Quinta,Mobile,Curitiba,Não
+2024-02-10,16:34,/pagina/10,435,7,Email,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-07-11,18:32,/pagina/5,111,3,Redes Sociais,Sim,Sim,Domingo,Desktop,São Paulo,Não
+2024-10-20,00:54,/pagina/1,342,7,Referral,Não,Não,Quarta,Desktop,São Paulo,Não
+2024-07-03,18:59,/pagina/9,252,3,Email,Sim,Sim,Quinta,Desktop,Brasília,Não
+2024-04-02,21:25,/pagina/2,157,9,Google,Não,Não,Sexta,Mobile,Brasília,Não
+2024-10-04,17:12,/pagina/8,952,9,Redes Sociais,Não,Sim,Quarta,Mobile,São Paulo,Não
+2024-01-17,04:06,/pagina/5,189,5,Referral,Sim,Sim,Sábado,Mobile,Brasília,Sim
+2024-06-11,22:23,/pagina/3,669,1,Google,Sim,Não,Domingo,Mobile,São Paulo,Não
+2024-12-15,18:29,/pagina/9,320,5,Redes Sociais,Não,Sim,Quinta,Desktop,Brasília,Sim
+2024-10-26,19:40,/pagina/6,263,5,Email,Sim,Não,Sexta,Desktop,São Paulo,Sim
+2024-06-19,22:33,/pagina/10,467,8,Referral,Não,Não,Quarta,Desktop,São Paulo,Sim
+2024-11-05,04:26,/pagina/1,933,1,Referral,Não,Sim,Sexta,Mobile,Brasília,Não
+2024-10-02,17:30,/pagina/2,322,3,Referral,Não,Sim,Sexta,Desktop,Rio de Janeiro,Não
+2024-11-08,19:45,/pagina/1,608,3,Referral,Sim,Não,Quarta,Desktop,Brasília,Não
+2024-09-03,07:26,/pagina/4,160,4,Email,Não,Sim,Quinta,Desktop,São Paulo,Sim
+2024-10-05,07:45,/pagina/9,567,9,Redes Sociais,Não,Não,Domingo,Desktop,São Paulo,Sim
+2024-07-19,23:17,/pagina/7,429,10,Redes Sociais,Sim,Sim,Domingo,Desktop,Rio de Janeiro,Não
+2024-11-29,06:42,/pagina/1,915,8,Email,Não,Sim,Terça,Desktop,Rio de Janeiro,Não
+2024-02-08,17:01,/pagina/9,958,3,Email,Sim,Não,Terça,Mobile,São Paulo,Sim
+2024-10-18,08:36,/pagina/7,990,1,Referral,Não,Não,Segunda,Mobile,Rio de Janeiro,Não
+2024-09-28,20:03,/pagina/5,807,3,Redes Sociais,Não,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-02-04,10:10,/pagina/10,760,2,Email,Sim,Não,Quarta,Mobile,Brasília,Sim
+2024-10-17,01:16,/pagina/2,788,1,Redes Sociais,Não,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-05-08,06:29,/pagina/10,166,7,Referral,Sim,Não,Quarta,Mobile,Brasília,Sim
+2024-09-13,14:40,/pagina/2,634,1,Referral,Não,Não,Terça,Mobile,Brasília,Não
+2024-12-05,08:56,/pagina/1,899,9,Referral,Não,Não,Terça,Desktop,Brasília,Não
+2024-09-25,19:52,/pagina/10,363,6,Referral,Sim,Não,Terça,Mobile,Brasília,Não
+2024-07-11,18:00,/pagina/6,658,4,Referral,Sim,Não,Domingo,Mobile,Curitiba,Sim
+2024-06-03,03:36,/pagina/4,919,2,Email,Sim,Sim,Terça,Desktop,Curitiba,Não
+2024-03-26,11:17,/pagina/1,496,1,Referral,Não,Não,Domingo,Desktop,Curitiba,Sim
+2024-06-08,06:00,/pagina/10,522,5,Email,Não,Não,Sexta,Desktop,São Paulo,Não
+2024-01-04,16:18,/pagina/9,980,4,Google,Sim,Sim,Domingo,Mobile,Brasília,Sim
+2024-07-08,00:00,/pagina/7,260,1,Email,Não,Não,Segunda,Desktop,Brasília,Não
+2024-03-03,13:42,/pagina/7,216,1,Email,Sim,Sim,Quinta,Desktop,Curitiba,Sim
+2024-09-14,16:41,/pagina/1,171,10,Redes Sociais,Não,Sim,Terça,Mobile,Brasília,Sim
+2024-05-19,21:10,/pagina/10,714,1,Google,Sim,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-09-20,10:39,/pagina/10,406,5,Referral,Não,Não,Terça,Mobile,Curitiba,Não
+2024-09-12,12:09,/pagina/9,812,9,Email,Sim,Não,Sábado,Desktop,Brasília,Não
+2024-09-14,04:48,/pagina/5,191,5,Referral,Não,Sim,Terça,Mobile,Brasília,Não
+2024-06-13,01:17,/pagina/2,361,8,Email,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-07-27,19:14,/pagina/5,447,9,Redes Sociais,Não,Sim,Terça,Desktop,Brasília,Sim
+2024-07-11,13:23,/pagina/4,842,1,Redes Sociais,Não,Não,Sexta,Mobile,Brasília,Sim
+2024-10-23,01:44,/pagina/10,557,8,Redes Sociais,Não,Sim,Terça,Mobile,Rio de Janeiro,Sim
+2024-12-28,06:01,/pagina/6,119,5,Google,Não,Não,Segunda,Mobile,Curitiba,Não
+2024-05-24,18:13,/pagina/1,726,8,Email,Sim,Não,Terça,Mobile,Curitiba,Sim
+2024-09-02,19:31,/pagina/10,120,7,Google,Sim,Sim,Quinta,Desktop,São Paulo,Não
+2024-10-07,08:53,/pagina/8,750,1,Email,Não,Sim,Terça,Desktop,Curitiba,Não
+2024-09-21,14:42,/pagina/7,354,4,Email,Sim,Sim,Terça,Mobile,São Paulo,Não
+2024-10-25,04:00,/pagina/1,422,9,Referral,Não,Não,Segunda,Mobile,São Paulo,Não
+2024-08-17,06:38,/pagina/9,847,6,Redes Sociais,Sim,Sim,Quinta,Desktop,São Paulo,Sim
+2024-05-15,10:24,/pagina/10,360,1,Email,Sim,Não,Terça,Mobile,Curitiba,Não
+2024-06-21,16:17,/pagina/8,775,1,Email,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Sim
+2024-06-26,16:43,/pagina/3,131,3,Referral,Sim,Sim,Segunda,Desktop,Curitiba,Não
+2024-09-19,09:34,/pagina/5,819,5,Email,Não,Não,Domingo,Desktop,Brasília,Sim
+2024-10-24,07:08,/pagina/2,377,2,Email,Sim,Não,Segunda,Desktop,Rio de Janeiro,Sim
+2024-08-13,14:42,/pagina/8,305,9,Email,Não,Não,Terça,Desktop,Rio de Janeiro,Sim
+2024-11-06,07:07,/pagina/5,259,10,Email,Sim,Não,Quarta,Mobile,Brasília,Sim
+2024-07-08,14:13,/pagina/6,633,3,Google,Não,Não,Sábado,Desktop,Brasília,Não
+2024-05-08,19:08,/pagina/10,965,2,Email,Não,Sim,Terça,Desktop,São Paulo,Não
+2024-06-03,10:35,/pagina/4,195,6,Google,Sim,Não,Sexta,Mobile,Rio de Janeiro,Não
+2024-03-25,05:02,/pagina/2,992,10,Google,Sim,Não,Quarta,Desktop,Rio de Janeiro,Sim
+2024-06-07,17:13,/pagina/8,504,5,Referral,Não,Sim,Domingo,Mobile,Brasília,Sim
+2024-09-09,05:47,/pagina/10,360,6,Redes Sociais,Sim,Sim,Quinta,Desktop,Brasília,Não
+2024-05-27,05:46,/pagina/9,650,10,Redes Sociais,Sim,Não,Sábado,Mobile,São Paulo,Não
+2024-12-22,06:43,/pagina/5,115,5,Referral,Não,Não,Sexta,Desktop,Brasília,Não
+2024-04-08,10:28,/pagina/10,410,3,Email,Não,Não,Domingo,Desktop,São Paulo,Não
+2024-03-15,10:10,/pagina/8,692,2,Google,Sim,Sim,Quarta,Mobile,Curitiba,Não
+2024-12-23,08:34,/pagina/6,502,4,Google,Não,Sim,Quinta,Mobile,São Paulo,Não
+2024-06-29,00:04,/pagina/9,981,8,Google,Sim,Não,Segunda,Mobile,São Paulo,Não
+2024-09-07,10:28,/pagina/9,295,8,Google,Não,Sim,Terça,Desktop,Curitiba,Sim
+2024-11-14,14:16,/pagina/3,574,4,Redes Sociais,Não,Não,Quinta,Mobile,Curitiba,Sim
+2024-08-11,00:26,/pagina/7,477,2,Google,Não,Não,Sábado,Mobile,Brasília,Sim
+2024-03-22,11:41,/pagina/2,496,6,Redes Sociais,Não,Sim,Terça,Mobile,São Paulo,Sim
+2024-02-11,03:02,/pagina/8,362,10,Referral,Não,Sim,Domingo,Mobile,Brasília,Sim
+2024-09-10,11:44,/pagina/10,441,3,Referral,Não,Sim,Terça,Desktop,Brasília,Sim
+2024-07-27,13:10,/pagina/2,233,6,Redes Sociais,Sim,Não,Quinta,Desktop,Rio de Janeiro,Não
+2024-03-12,04:50,/pagina/5,324,8,Redes Sociais,Sim,Não,Domingo,Mobile,Rio de Janeiro,Não
+2024-09-16,00:25,/pagina/10,345,1,Referral,Não,Não,Quinta,Mobile,Brasília,Sim
+2024-03-09,07:59,/pagina/6,538,6,Referral,Sim,Sim,Terça,Desktop,São Paulo,Sim
+2024-07-02,14:38,/pagina/2,659,1,Referral,Sim,Não,Quinta,Mobile,São Paulo,Sim
+2024-12-22,19:49,/pagina/1,965,1,Google,Não,Sim,Domingo,Desktop,Brasília,Não
+2024-12-02,21:05,/pagina/6,561,9,Google,Sim,Não,Quinta,Desktop,Brasília,Sim
+2024-04-05,12:07,/pagina/8,204,10,Referral,Sim,Não,Segunda,Desktop,Rio de Janeiro,Sim
+2024-08-01,03:31,/pagina/7,599,10,Referral,Sim,Sim,Segunda,Mobile,Brasília,Sim
+2024-10-26,19:05,/pagina/9,972,9,Referral,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Sim
+2024-07-20,05:42,/pagina/9,388,2,Google,Não,Não,Domingo,Desktop,São Paulo,Não
+2024-01-07,20:26,/pagina/5,536,2,Redes Sociais,Não,Sim,Terça,Mobile,Brasília,Sim
+2024-01-30,08:09,/pagina/1,616,10,Referral,Não,Não,Quinta,Desktop,Curitiba,Não
+2024-07-06,21:18,/pagina/10,943,9,Redes Sociais,Sim,Sim,Sexta,Desktop,Brasília,Sim
+2024-12-03,19:30,/pagina/1,603,1,Referral,Sim,Não,Segunda,Desktop,Brasília,Sim
+2024-03-14,19:29,/pagina/3,804,2,Google,Sim,Não,Sexta,Desktop,Curitiba,Sim
+2024-01-16,12:47,/pagina/4,138,7,Email,Sim,Não,Quinta,Mobile,Rio de Janeiro,Sim
+2024-12-05,03:55,/pagina/5,1000,9,Redes Sociais,Não,Sim,Domingo,Mobile,Rio de Janeiro,Sim
+2024-06-12,18:03,/pagina/10,799,8,Google,Não,Não,Sexta,Desktop,Curitiba,Não
+2024-02-19,13:28,/pagina/3,567,5,Google,Não,Não,Sábado,Mobile,Brasília,Sim
+2024-08-22,22:39,/pagina/2,276,9,Email,Não,Sim,Segunda,Mobile,São Paulo,Não
+2024-11-09,03:25,/pagina/1,830,5,Email,Sim,Sim,Sábado,Desktop,Curitiba,Não
+2024-05-04,19:31,/pagina/8,664,9,Google,Sim,Não,Quarta,Desktop,Curitiba,Não
+2024-06-03,00:29,/pagina/10,332,6,Referral,Não,Sim,Quinta,Desktop,Curitiba,Sim
+2024-04-26,18:03,/pagina/1,179,1,Referral,Sim,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-10-04,05:45,/pagina/3,969,1,Redes Sociais,Sim,Sim,Sexta,Mobile,São Paulo,Não
+2024-01-18,17:55,/pagina/10,534,10,Email,Sim,Não,Segunda,Mobile,São Paulo,Sim
+2024-04-17,21:25,/pagina/8,394,6,Redes Sociais,Sim,Sim,Quarta,Desktop,São Paulo,Sim
+2024-09-09,13:25,/pagina/5,974,2,Referral,Não,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-03-17,17:21,/pagina/2,994,4,Google,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-01-05,00:54,/pagina/9,164,4,Email,Sim,Sim,Quarta,Desktop,Brasília,Não
+2024-04-13,01:19,/pagina/2,556,5,Google,Sim,Sim,Terça,Mobile,São Paulo,Sim
+2024-11-06,11:06,/pagina/1,929,9,Referral,Não,Não,Sexta,Mobile,São Paulo,Sim
+2024-06-02,02:43,/pagina/6,166,4,Email,Não,Sim,Quinta,Desktop,São Paulo,Sim
+2024-05-21,01:23,/pagina/9,399,3,Referral,Não,Sim,Segunda,Desktop,Brasília,Sim
+2024-11-22,08:46,/pagina/1,275,6,Google,Não,Sim,Terça,Mobile,São Paulo,Sim
+2024-04-19,17:16,/pagina/6,224,1,Redes Sociais,Não,Sim,Terça,Desktop,Brasília,Sim
+2024-05-08,15:57,/pagina/2,793,7,Referral,Não,Não,Domingo,Mobile,São Paulo,Sim
+2024-06-12,14:45,/pagina/10,808,3,Email,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-03-16,18:42,/pagina/1,713,5,Email,Sim,Sim,Domingo,Desktop,Brasília,Sim
+2024-09-12,08:11,/pagina/10,378,2,Google,Sim,Sim,Quinta,Mobile,Brasília,Não
+2024-09-01,12:43,/pagina/8,151,5,Email,Sim,Não,Domingo,Desktop,Curitiba,Não
+2024-10-07,10:22,/pagina/1,545,2,Referral,Não,Sim,Segunda,Mobile,São Paulo,Não
+2024-02-13,07:21,/pagina/6,266,7,Email,Sim,Sim,Terça,Desktop,Curitiba,Sim
+2024-05-19,23:14,/pagina/7,570,6,Email,Sim,Sim,Quarta,Desktop,São Paulo,Não
+2024-07-27,07:08,/pagina/8,912,7,Redes Sociais,Não,Sim,Quarta,Desktop,Rio de Janeiro,Sim
+2024-06-14,00:01,/pagina/10,460,7,Google,Não,Sim,Sábado,Mobile,São Paulo,Não
+2024-12-02,13:18,/pagina/3,529,4,Redes Sociais,Não,Sim,Quinta,Desktop,São Paulo,Não
+2024-08-17,08:35,/pagina/10,163,5,Referral,Não,Não,Sexta,Desktop,Rio de Janeiro,Não
+2024-03-26,16:26,/pagina/6,613,5,Email,Não,Sim,Sexta,Mobile,Rio de Janeiro,Sim
+2024-12-04,06:56,/pagina/10,825,2,Redes Sociais,Não,Sim,Sexta,Mobile,Curitiba,Não
+2024-06-16,20:19,/pagina/9,961,1,Referral,Não,Sim,Segunda,Mobile,Rio de Janeiro,Sim
+2024-09-02,03:45,/pagina/5,154,8,Redes Sociais,Sim,Não,Domingo,Mobile,Curitiba,Sim
+2024-07-09,17:45,/pagina/4,681,10,Referral,Sim,Não,Segunda,Desktop,Brasília,Não
+2024-11-29,21:09,/pagina/7,955,3,Referral,Sim,Sim,Domingo,Mobile,Rio de Janeiro,Não
+2024-08-17,06:36,/pagina/2,114,7,Email,Sim,Sim,Domingo,Mobile,Brasília,Não
+2024-03-14,14:33,/pagina/5,615,5,Redes Sociais,Não,Sim,Segunda,Desktop,Curitiba,Sim
+2024-04-25,03:55,/pagina/7,646,7,Google,Não,Sim,Quarta,Mobile,Brasília,Sim
+2024-11-07,05:09,/pagina/4,303,3,Referral,Sim,Não,Segunda,Mobile,Curitiba,Sim
+2024-03-24,15:29,/pagina/10,404,8,Redes Sociais,Não,Não,Quinta,Desktop,São Paulo,Não
+2024-02-19,06:36,/pagina/5,670,8,Email,Sim,Sim,Domingo,Desktop,São Paulo,Não
+2024-09-13,23:39,/pagina/2,369,1,Redes Sociais,Sim,Sim,Quinta,Mobile,Curitiba,Sim
+2024-09-08,02:48,/pagina/5,526,8,Email,Sim,Sim,Domingo,Desktop,Curitiba,Não
+2024-05-13,02:45,/pagina/5,222,4,Referral,Não,Não,Terça,Mobile,Brasília,Não
+2024-11-24,16:46,/pagina/1,959,6,Email,Não,Não,Sábado,Desktop,São Paulo,Não
+2024-09-17,05:06,/pagina/9,207,7,Redes Sociais,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-02-10,09:00,/pagina/4,405,6,Email,Sim,Sim,Sexta,Mobile,Curitiba,Sim
+2024-08-31,00:49,/pagina/7,259,5,Redes Sociais,Sim,Não,Quarta,Mobile,Brasília,Não
+2024-07-04,05:44,/pagina/4,782,6,Referral,Não,Sim,Sábado,Desktop,Brasília,Não
+2024-09-14,03:05,/pagina/1,250,3,Referral,Não,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-03-09,01:00,/pagina/8,791,6,Referral,Sim,Sim,Domingo,Mobile,São Paulo,Não
+2024-08-02,20:13,/pagina/5,497,1,Referral,Sim,Sim,Domingo,Mobile,Rio de Janeiro,Sim
+2024-02-29,14:52,/pagina/4,254,7,Email,Não,Não,Quinta,Desktop,Curitiba,Sim
+2024-11-12,22:36,/pagina/9,501,8,Email,Não,Sim,Sábado,Desktop,Brasília,Sim
+2024-09-20,02:25,/pagina/5,733,5,Google,Não,Não,Quarta,Mobile,São Paulo,Não
+2024-04-05,18:23,/pagina/9,278,8,Referral,Sim,Sim,Domingo,Mobile,Rio de Janeiro,Não
+2024-02-05,09:09,/pagina/7,916,1,Google,Sim,Sim,Quinta,Mobile,São Paulo,Não
+2024-05-31,03:30,/pagina/4,170,1,Google,Sim,Não,Segunda,Mobile,Rio de Janeiro,Não
+2024-08-26,16:10,/pagina/6,538,3,Email,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-09-07,12:38,/pagina/10,441,6,Redes Sociais,Sim,Não,Quinta,Desktop,Curitiba,Sim
+2024-08-22,13:48,/pagina/7,323,8,Google,Sim,Não,Segunda,Mobile,São Paulo,Não
+2024-09-17,02:45,/pagina/7,196,4,Email,Sim,Sim,Quinta,Desktop,Curitiba,Não
+2024-04-04,22:27,/pagina/7,393,10,Redes Sociais,Não,Sim,Segunda,Mobile,Rio de Janeiro,Não
+2024-05-31,20:17,/pagina/4,246,5,Google,Sim,Não,Sexta,Desktop,Rio de Janeiro,Sim
+2024-02-22,05:45,/pagina/3,409,9,Google,Não,Sim,Sábado,Desktop,São Paulo,Sim
+2024-09-16,04:15,/pagina/10,998,6,Referral,Não,Sim,Domingo,Desktop,São Paulo,Não
+2024-03-10,13:37,/pagina/8,731,1,Referral,Não,Sim,Segunda,Desktop,Brasília,Sim
+2024-09-06,15:09,/pagina/5,875,6,Google,Sim,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-07-17,20:29,/pagina/2,932,4,Redes Sociais,Sim,Não,Domingo,Desktop,Brasília,Sim
+2024-07-06,05:21,/pagina/9,213,5,Referral,Sim,Sim,Sexta,Mobile,Curitiba,Não
+2024-02-20,09:47,/pagina/2,340,6,Redes Sociais,Não,Não,Quinta,Mobile,Brasília,Sim
+2024-07-09,00:47,/pagina/10,808,5,Redes Sociais,Sim,Não,Sexta,Desktop,Rio de Janeiro,Sim
+2024-04-26,02:31,/pagina/6,811,5,Referral,Sim,Não,Terça,Desktop,Curitiba,Não
+2024-03-26,20:14,/pagina/9,742,4,Referral,Não,Sim,Domingo,Mobile,Rio de Janeiro,Não
+2024-04-23,05:00,/pagina/1,717,10,Referral,Sim,Não,Sexta,Desktop,Brasília,Sim
+2024-07-16,06:50,/pagina/2,238,2,Google,Sim,Não,Domingo,Desktop,Brasília,Sim
+2024-10-25,09:06,/pagina/4,540,4,Email,Não,Não,Sábado,Mobile,Curitiba,Não
+2024-11-02,20:59,/pagina/2,600,4,Email,Não,Não,Quarta,Desktop,Brasília,Sim
+2024-06-28,22:49,/pagina/9,786,3,Referral,Não,Não,Quarta,Desktop,Brasília,Não
+2024-05-23,17:32,/pagina/3,426,3,Referral,Sim,Não,Segunda,Desktop,Brasília,Sim
+2024-05-29,03:59,/pagina/4,485,7,Google,Sim,Não,Terça,Desktop,Rio de Janeiro,Sim
+2024-10-16,05:26,/pagina/10,352,4,Google,Não,Não,Quinta,Desktop,Curitiba,Sim
+2024-10-31,04:46,/pagina/9,252,3,Email,Sim,Não,Terça,Desktop,Curitiba,Não
+2024-06-07,22:50,/pagina/4,778,9,Google,Sim,Sim,Sexta,Mobile,Curitiba,Não
+2024-03-23,12:10,/pagina/2,645,2,Email,Sim,Não,Domingo,Mobile,São Paulo,Não
+2024-10-23,17:02,/pagina/1,418,7,Redes Sociais,Sim,Não,Domingo,Mobile,Brasília,Não
+2024-11-19,06:52,/pagina/7,132,10,Email,Sim,Sim,Domingo,Desktop,Rio de Janeiro,Não
+2024-07-28,04:55,/pagina/5,432,3,Redes Sociais,Não,Não,Segunda,Desktop,Rio de Janeiro,Não
+2024-04-25,02:24,/pagina/8,216,9,Email,Sim,Sim,Domingo,Desktop,Brasília,Não
+2024-08-11,03:31,/pagina/7,861,7,Google,Não,Não,Quinta,Desktop,Curitiba,Sim
+2024-03-09,08:14,/pagina/7,746,5,Email,Não,Sim,Domingo,Desktop,Rio de Janeiro,Não
+2024-06-13,09:14,/pagina/5,846,3,Redes Sociais,Sim,Sim,Domingo,Desktop,Rio de Janeiro,Não
+2024-01-10,00:05,/pagina/10,780,2,Email,Sim,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-07-20,02:31,/pagina/10,517,1,Email,Não,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-10-01,05:12,/pagina/4,576,4,Referral,Sim,Não,Terça,Mobile,Brasília,Não
+2024-02-17,00:05,/pagina/3,867,9,Redes Sociais,Não,Não,Quinta,Mobile,Rio de Janeiro,Sim
+2024-02-23,03:02,/pagina/5,309,1,Email,Não,Não,Sábado,Mobile,São Paulo,Sim
+2024-11-03,16:04,/pagina/8,272,4,Email,Sim,Não,Segunda,Desktop,Brasília,Não
+2024-04-18,21:04,/pagina/5,884,10,Google,Sim,Não,Sexta,Desktop,Rio de Janeiro,Não
+2024-08-24,00:03,/pagina/9,571,10,Redes Sociais,Não,Sim,Sábado,Desktop,Brasília,Sim
+2024-08-31,23:52,/pagina/6,663,1,Google,Sim,Não,Domingo,Desktop,Rio de Janeiro,Não
+2024-08-11,15:41,/pagina/5,449,5,Email,Não,Sim,Segunda,Mobile,Brasília,Sim
+2024-11-09,09:04,/pagina/7,435,8,Redes Sociais,Não,Sim,Domingo,Desktop,Rio de Janeiro,Não
+2024-08-01,17:01,/pagina/5,372,9,Email,Sim,Não,Domingo,Desktop,Rio de Janeiro,Não
+2024-01-06,23:03,/pagina/7,797,5,Redes Sociais,Sim,Não,Domingo,Desktop,São Paulo,Sim
+2024-10-25,17:09,/pagina/4,964,9,Google,Não,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-12-09,08:02,/pagina/4,206,8,Email,Sim,Sim,Terça,Desktop,Curitiba,Sim
+2024-05-18,07:25,/pagina/8,644,10,Google,Não,Não,Segunda,Mobile,São Paulo,Sim
+2024-03-25,17:51,/pagina/8,971,7,Referral,Não,Sim,Quinta,Mobile,Curitiba,Não
+2024-02-16,11:25,/pagina/6,191,7,Google,Sim,Sim,Segunda,Desktop,Rio de Janeiro,Não
+2024-12-20,14:57,/pagina/5,554,5,Redes Sociais,Sim,Não,Sexta,Mobile,Brasília,Não
+2024-04-12,17:13,/pagina/10,739,5,Referral,Não,Sim,Terça,Desktop,Curitiba,Sim
+2024-05-17,13:12,/pagina/5,706,7,Referral,Não,Não,Terça,Desktop,Brasília,Não
+2024-11-17,02:11,/pagina/8,877,9,Email,Sim,Não,Terça,Mobile,Brasília,Sim
+2024-04-26,20:12,/pagina/4,503,3,Redes Sociais,Não,Sim,Sábado,Desktop,Curitiba,Sim
+2024-10-05,12:39,/pagina/4,687,1,Referral,Não,Não,Domingo,Mobile,Curitiba,Sim
+2024-07-22,03:19,/pagina/1,682,3,Referral,Não,Não,Terça,Desktop,Brasília,Não
+2024-11-07,21:25,/pagina/9,856,10,Referral,Sim,Não,Terça,Mobile,São Paulo,Não
+2024-10-07,19:25,/pagina/10,279,2,Email,Sim,Não,Quarta,Mobile,Curitiba,Não
+2024-07-13,21:45,/pagina/9,843,3,Google,Sim,Não,Terça,Mobile,Curitiba,Sim
+2024-03-04,01:12,/pagina/5,621,7,Google,Sim,Não,Quarta,Desktop,Brasília,Sim
+2024-10-28,00:55,/pagina/10,856,2,Referral,Sim,Não,Domingo,Desktop,São Paulo,Não
+2024-05-15,05:23,/pagina/1,767,1,Google,Não,Sim,Sexta,Desktop,São Paulo,Não
+2024-12-07,14:43,/pagina/4,177,2,Google,Não,Não,Quarta,Mobile,Brasília,Não
+2024-09-25,00:24,/pagina/1,108,5,Email,Sim,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-02-10,03:18,/pagina/10,371,3,Google,Sim,Não,Domingo,Mobile,Brasília,Não
+2024-05-18,15:31,/pagina/8,701,6,Referral,Sim,Não,Terça,Desktop,Brasília,Sim
+2024-07-25,00:21,/pagina/6,176,4,Google,Não,Sim,Segunda,Desktop,Brasília,Não
+2024-10-11,00:15,/pagina/2,770,1,Email,Não,Sim,Segunda,Mobile,Rio de Janeiro,Sim
+2024-12-19,06:40,/pagina/8,357,1,Redes Sociais,Não,Não,Domingo,Desktop,São Paulo,Sim
+2024-10-02,06:53,/pagina/8,845,5,Email,Sim,Não,Sexta,Mobile,São Paulo,Não
+2024-03-29,14:39,/pagina/4,538,10,Email,Não,Sim,Sexta,Desktop,Curitiba,Sim
+2024-09-21,21:59,/pagina/6,580,3,Email,Não,Sim,Quarta,Mobile,São Paulo,Não
+2024-02-16,02:11,/pagina/10,849,6,Referral,Sim,Sim,Terça,Mobile,Brasília,Sim
+2024-03-27,21:27,/pagina/6,293,9,Google,Não,Não,Quarta,Mobile,Curitiba,Não
+2024-07-20,10:18,/pagina/10,808,10,Email,Sim,Sim,Segunda,Mobile,São Paulo,Sim
+2024-01-13,23:55,/pagina/10,703,10,Redes Sociais,Sim,Não,Quinta,Mobile,Brasília,Sim
+2024-10-16,16:27,/pagina/10,598,2,Referral,Não,Não,Quarta,Mobile,Brasília,Não
+2024-02-16,11:23,/pagina/9,963,5,Redes Sociais,Sim,Sim,Sábado,Desktop,São Paulo,Sim
+2024-10-08,19:05,/pagina/5,228,4,Google,Sim,Sim,Terça,Desktop,São Paulo,Não
+2024-01-12,19:33,/pagina/9,725,9,Email,Sim,Não,Sexta,Desktop,São Paulo,Não
+2024-11-16,19:28,/pagina/6,900,7,Referral,Não,Não,Terça,Mobile,Rio de Janeiro,Sim
+2024-11-06,08:54,/pagina/9,265,5,Referral,Sim,Sim,Terça,Mobile,Rio de Janeiro,Sim
+2024-04-22,20:07,/pagina/9,511,9,Referral,Sim,Sim,Segunda,Mobile,Brasília,Sim
+2024-11-21,17:57,/pagina/8,914,2,Redes Sociais,Sim,Não,Domingo,Desktop,Curitiba,Sim
+2024-11-10,03:32,/pagina/2,126,6,Referral,Sim,Sim,Domingo,Mobile,São Paulo,Sim
+2024-06-29,17:52,/pagina/1,504,8,Email,Não,Sim,Domingo,Desktop,Curitiba,Não
+2024-11-11,09:34,/pagina/2,690,6,Google,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-03-03,15:09,/pagina/2,596,6,Google,Sim,Não,Quarta,Mobile,Curitiba,Não
+2024-09-20,02:57,/pagina/8,467,9,Email,Não,Sim,Sexta,Mobile,Curitiba,Não
+2024-05-07,14:46,/pagina/6,856,7,Google,Sim,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-05-03,04:36,/pagina/1,791,9,Referral,Não,Sim,Sábado,Mobile,Rio de Janeiro,Sim
+2024-02-24,23:53,/pagina/5,416,10,Referral,Não,Sim,Terça,Desktop,Brasília,Sim
+2024-11-08,02:50,/pagina/9,109,9,Google,Não,Não,Sábado,Mobile,Curitiba,Não
+2024-10-22,00:06,/pagina/4,888,2,Referral,Sim,Não,Terça,Mobile,São Paulo,Não
+2024-11-21,13:45,/pagina/3,299,7,Redes Sociais,Não,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-06-24,03:21,/pagina/7,191,6,Redes Sociais,Sim,Sim,Terça,Mobile,Brasília,Sim
+2024-10-22,22:45,/pagina/10,702,4,Email,Não,Sim,Sexta,Mobile,São Paulo,Não
+2024-07-01,16:02,/pagina/5,986,3,Email,Sim,Não,Sábado,Mobile,Brasília,Sim
+2024-07-15,14:09,/pagina/5,888,4,Email,Sim,Não,Sábado,Desktop,Brasília,Não
+2024-07-23,00:34,/pagina/10,178,2,Google,Sim,Sim,Quarta,Desktop,Rio de Janeiro,Sim
+2024-05-16,13:16,/pagina/8,569,10,Referral,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-07-18,02:20,/pagina/1,605,6,Referral,Sim,Não,Quinta,Desktop,Brasília,Sim
+2024-01-21,23:21,/pagina/3,691,4,Referral,Sim,Sim,Quarta,Desktop,Rio de Janeiro,Sim
+2024-11-04,07:54,/pagina/2,671,2,Referral,Sim,Não,Sexta,Desktop,Brasília,Sim
+2024-06-12,02:16,/pagina/1,125,1,Email,Não,Sim,Segunda,Desktop,Brasília,Sim
+2024-09-10,11:30,/pagina/3,270,10,Email,Não,Não,Sexta,Mobile,Curitiba,Sim
+2024-05-01,12:06,/pagina/8,846,7,Google,Sim,Sim,Sexta,Mobile,Curitiba,Sim
+2024-05-24,02:37,/pagina/10,717,5,Email,Sim,Não,Terça,Mobile,São Paulo,Não
+2024-01-17,08:55,/pagina/6,856,8,Email,Sim,Sim,Sexta,Desktop,Rio de Janeiro,Sim
+2024-09-03,01:21,/pagina/4,740,3,Google,Não,Sim,Sábado,Desktop,São Paulo,Não
+2024-07-21,20:32,/pagina/10,687,9,Redes Sociais,Sim,Sim,Terça,Desktop,Brasília,Não
+2024-06-30,05:54,/pagina/2,428,5,Google,Sim,Não,Sexta,Mobile,Brasília,Não
+2024-02-13,03:04,/pagina/4,226,4,Email,Não,Sim,Quarta,Mobile,Brasília,Sim
+2024-01-30,14:48,/pagina/3,660,10,Google,Sim,Sim,Sexta,Desktop,Rio de Janeiro,Sim
+2024-08-08,14:45,/pagina/4,257,8,Referral,Não,Sim,Sábado,Desktop,São Paulo,Não
+2024-05-08,02:05,/pagina/4,203,6,Google,Não,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-06-14,01:16,/pagina/10,394,9,Google,Sim,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-07-01,02:30,/pagina/6,618,3,Redes Sociais,Sim,Sim,Sexta,Mobile,Rio de Janeiro,Sim
+2024-10-08,17:41,/pagina/5,554,7,Google,Sim,Não,Sábado,Mobile,São Paulo,Não
+2024-09-17,20:54,/pagina/7,361,4,Redes Sociais,Sim,Sim,Quinta,Desktop,Curitiba,Não
+2024-08-18,10:13,/pagina/8,995,3,Email,Sim,Sim,Domingo,Mobile,Rio de Janeiro,Sim
+2024-08-21,15:29,/pagina/1,930,9,Email,Não,Sim,Quarta,Desktop,Rio de Janeiro,Não
+2024-09-13,14:47,/pagina/9,877,2,Referral,Sim,Não,Segunda,Desktop,Curitiba,Sim
+2024-09-17,03:52,/pagina/6,959,4,Referral,Não,Não,Terça,Mobile,Curitiba,Sim
+2024-10-15,20:55,/pagina/6,562,10,Referral,Sim,Não,Sexta,Mobile,Rio de Janeiro,Não
+2024-11-01,14:27,/pagina/5,509,3,Redes Sociais,Sim,Sim,Sexta,Mobile,São Paulo,Sim
+2024-05-03,12:17,/pagina/8,114,9,Redes Sociais,Sim,Não,Quinta,Mobile,Rio de Janeiro,Sim
+2024-03-30,13:23,/pagina/1,957,3,Referral,Sim,Não,Sábado,Desktop,Curitiba,Não
+2024-06-29,21:23,/pagina/7,764,10,Redes Sociais,Sim,Não,Sexta,Desktop,São Paulo,Não
+2024-05-09,11:09,/pagina/4,200,3,Email,Sim,Não,Sábado,Mobile,Curitiba,Sim
+2024-11-08,21:55,/pagina/2,269,10,Google,Não,Sim,Terça,Desktop,São Paulo,Não
+2024-07-07,07:53,/pagina/5,650,2,Google,Não,Sim,Quinta,Desktop,Rio de Janeiro,Não
+2024-03-07,19:13,/pagina/7,514,2,Google,Sim,Sim,Sexta,Desktop,São Paulo,Sim
+2024-06-01,16:11,/pagina/1,907,3,Email,Sim,Sim,Sexta,Desktop,Brasília,Não
+2024-02-17,18:48,/pagina/9,863,6,Redes Sociais,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-10-11,09:28,/pagina/2,209,5,Google,Sim,Sim,Domingo,Desktop,São Paulo,Sim
+2024-06-16,14:48,/pagina/8,573,3,Email,Não,Sim,Sexta,Mobile,Rio de Janeiro,Não
+2024-02-23,08:46,/pagina/9,887,5,Email,Sim,Sim,Quinta,Desktop,Curitiba,Sim
+2024-10-25,04:21,/pagina/2,835,6,Google,Não,Sim,Quarta,Mobile,Rio de Janeiro,Sim
+2024-01-08,08:20,/pagina/10,619,9,Google,Não,Sim,Sábado,Mobile,Curitiba,Sim
+2024-02-14,06:46,/pagina/6,302,7,Redes Sociais,Não,Não,Domingo,Desktop,Brasília,Sim
+2024-09-26,23:19,/pagina/4,836,1,Google,Sim,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-03-24,07:02,/pagina/9,712,2,Email,Sim,Sim,Terça,Mobile,Rio de Janeiro,Sim
+2024-05-16,16:47,/pagina/4,143,9,Email,Sim,Sim,Quinta,Mobile,Brasília,Não
+2024-03-05,15:16,/pagina/2,825,1,Redes Sociais,Não,Não,Terça,Desktop,São Paulo,Não
+2024-03-11,06:14,/pagina/9,216,9,Referral,Sim,Não,Sexta,Mobile,Brasília,Sim
+2024-03-14,06:43,/pagina/1,323,7,Email,Sim,Sim,Sexta,Mobile,Brasília,Sim
+2024-07-24,10:51,/pagina/5,521,8,Google,Sim,Sim,Sábado,Desktop,São Paulo,Sim
+2024-09-10,09:05,/pagina/3,601,2,Redes Sociais,Não,Não,Domingo,Desktop,Curitiba,Sim
+2024-03-15,06:34,/pagina/3,722,2,Google,Sim,Sim,Segunda,Desktop,Brasília,Sim
+2024-02-04,06:54,/pagina/7,821,3,Redes Sociais,Sim,Sim,Quarta,Desktop,Rio de Janeiro,Não
+2024-04-10,08:17,/pagina/1,700,4,Redes Sociais,Não,Não,Sábado,Desktop,Rio de Janeiro,Sim
+2024-02-13,19:56,/pagina/7,202,6,Email,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-08-07,00:38,/pagina/2,717,5,Google,Sim,Não,Sexta,Desktop,Rio de Janeiro,Não
+2024-12-15,23:25,/pagina/1,546,9,Email,Não,Não,Terça,Mobile,Brasília,Não
+2024-01-25,21:08,/pagina/7,761,5,Referral,Não,Não,Segunda,Mobile,Curitiba,Sim
+2024-03-30,01:02,/pagina/7,254,1,Redes Sociais,Não,Sim,Quinta,Desktop,São Paulo,Não
+2024-05-06,17:08,/pagina/7,519,9,Google,Não,Não,Quinta,Mobile,Curitiba,Sim
+2024-01-20,13:18,/pagina/10,714,7,Referral,Sim,Sim,Segunda,Mobile,Curitiba,Não
+2024-06-17,21:15,/pagina/2,198,3,Email,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-06-23,12:17,/pagina/4,245,10,Referral,Sim,Sim,Terça,Desktop,Brasília,Sim
+2024-07-26,19:20,/pagina/2,320,6,Email,Sim,Sim,Sexta,Desktop,Brasília,Sim
+2024-09-10,18:54,/pagina/7,698,2,Referral,Não,Não,Quarta,Desktop,Curitiba,Não
+2024-06-12,22:18,/pagina/4,675,7,Email,Sim,Sim,Segunda,Desktop,Rio de Janeiro,Sim
+2024-10-15,21:38,/pagina/4,821,8,Referral,Sim,Sim,Sábado,Mobile,Brasília,Não
+2024-06-18,17:07,/pagina/1,780,4,Email,Sim,Sim,Sábado,Mobile,Brasília,Sim
+2024-06-02,10:53,/pagina/8,545,6,Email,Sim,Não,Sexta,Desktop,São Paulo,Sim
+2024-02-12,20:51,/pagina/10,438,9,Redes Sociais,Sim,Não,Quinta,Desktop,Curitiba,Não
+2024-01-15,01:08,/pagina/1,493,8,Email,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Sim
+2024-03-11,16:03,/pagina/10,575,9,Referral,Não,Não,Terça,Mobile,Curitiba,Não
+2024-06-13,01:37,/pagina/7,544,6,Redes Sociais,Não,Não,Sexta,Desktop,Curitiba,Sim
+2024-10-19,18:29,/pagina/2,148,5,Google,Não,Não,Domingo,Desktop,Rio de Janeiro,Não
+2024-10-28,01:50,/pagina/3,905,2,Redes Sociais,Não,Sim,Quinta,Desktop,Curitiba,Sim
+2024-07-29,09:45,/pagina/6,748,10,Email,Sim,Não,Sexta,Mobile,São Paulo,Não
+2024-03-01,13:49,/pagina/1,654,1,Redes Sociais,Sim,Sim,Sábado,Desktop,Curitiba,Sim
+2024-05-31,15:17,/pagina/9,297,7,Google,Sim,Não,Sexta,Desktop,São Paulo,Não
+2024-11-04,23:54,/pagina/3,307,7,Email,Não,Sim,Segunda,Mobile,Brasília,Sim
+2024-07-27,23:59,/pagina/10,267,9,Redes Sociais,Não,Sim,Segunda,Mobile,São Paulo,Não
+2024-06-04,15:32,/pagina/4,573,6,Redes Sociais,Sim,Não,Sexta,Mobile,Rio de Janeiro,Sim
+2024-02-26,20:18,/pagina/2,531,9,Google,Não,Sim,Domingo,Desktop,São Paulo,Sim
+2024-12-26,10:46,/pagina/5,414,1,Google,Não,Sim,Sexta,Mobile,Rio de Janeiro,Não
+2024-07-19,18:23,/pagina/3,770,5,Email,Sim,Não,Quarta,Desktop,Brasília,Sim
+2024-02-15,10:02,/pagina/6,304,4,Redes Sociais,Não,Sim,Segunda,Mobile,São Paulo,Não
+2024-05-25,21:06,/pagina/5,326,5,Google,Sim,Sim,Quarta,Desktop,Brasília,Não
+2024-11-25,09:46,/pagina/5,641,8,Google,Sim,Não,Sexta,Desktop,Brasília,Não
+2024-12-06,00:46,/pagina/3,408,7,Email,Sim,Não,Terça,Desktop,Rio de Janeiro,Não
+2024-12-23,16:25,/pagina/7,251,9,Email,Sim,Sim,Domingo,Mobile,Brasília,Não
+2024-02-19,14:48,/pagina/10,261,7,Referral,Não,Não,Domingo,Mobile,São Paulo,Não
+2024-04-21,00:15,/pagina/3,900,1,Email,Não,Sim,Quarta,Mobile,Curitiba,Sim
+2024-05-29,12:11,/pagina/6,160,10,Redes Sociais,Não,Sim,Sábado,Desktop,Curitiba,Sim
+2024-05-09,15:02,/pagina/1,303,7,Email,Não,Sim,Segunda,Mobile,Curitiba,Não
+2024-04-28,22:37,/pagina/6,452,2,Email,Não,Não,Terça,Mobile,Curitiba,Não
+2024-01-15,18:58,/pagina/5,432,5,Google,Sim,Não,Domingo,Desktop,Curitiba,Sim
+2024-11-05,15:21,/pagina/3,143,10,Redes Sociais,Sim,Sim,Segunda,Desktop,São Paulo,Sim
+2024-05-24,13:58,/pagina/5,486,6,Referral,Sim,Não,Quarta,Mobile,Curitiba,Não
+2024-04-30,18:47,/pagina/6,159,2,Google,Sim,Não,Segunda,Mobile,Brasília,Sim
+2024-01-21,10:28,/pagina/1,408,9,Email,Sim,Não,Terça,Mobile,Rio de Janeiro,Sim
+2024-04-17,16:53,/pagina/7,798,9,Redes Sociais,Não,Sim,Sexta,Mobile,Rio de Janeiro,Não
+2024-08-22,09:58,/pagina/3,150,8,Google,Não,Não,Segunda,Mobile,Curitiba,Sim
+2024-02-11,05:10,/pagina/3,104,2,Redes Sociais,Sim,Não,Sexta,Desktop,São Paulo,Sim
+2024-08-06,16:07,/pagina/4,295,2,Referral,Não,Não,Terça,Desktop,Brasília,Sim
+2024-06-20,04:58,/pagina/9,666,2,Email,Não,Não,Terça,Desktop,São Paulo,Sim
+2024-05-24,20:11,/pagina/1,765,10,Referral,Sim,Sim,Quarta,Mobile,Curitiba,Não
+2024-08-30,04:45,/pagina/4,933,5,Redes Sociais,Sim,Sim,Terça,Desktop,Curitiba,Sim
+2024-03-07,14:52,/pagina/8,222,5,Redes Sociais,Não,Sim,Quinta,Desktop,Curitiba,Não
+2024-08-17,05:36,/pagina/3,234,1,Referral,Sim,Não,Quinta,Mobile,Rio de Janeiro,Sim
+2024-12-31,20:54,/pagina/5,576,10,Google,Não,Sim,Quinta,Mobile,Curitiba,Não
+2024-04-23,22:20,/pagina/6,911,9,Email,Não,Sim,Sábado,Desktop,São Paulo,Não
+2024-03-23,18:03,/pagina/2,633,5,Referral,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-07-18,17:44,/pagina/9,944,2,Email,Não,Não,Segunda,Mobile,São Paulo,Sim
+2024-10-27,07:55,/pagina/8,900,6,Email,Sim,Sim,Sábado,Desktop,Rio de Janeiro,Não
+2024-10-05,06:49,/pagina/3,939,7,Redes Sociais,Não,Não,Quinta,Mobile,São Paulo,Não
+2024-02-17,22:30,/pagina/6,580,7,Redes Sociais,Sim,Sim,Domingo,Mobile,Curitiba,Não
+2024-11-30,05:14,/pagina/9,137,4,Referral,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-03-25,15:10,/pagina/4,820,6,Referral,Sim,Não,Sábado,Mobile,Curitiba,Não
+2024-10-23,00:45,/pagina/9,239,3,Referral,Não,Sim,Terça,Mobile,Brasília,Não
+2024-07-20,03:51,/pagina/3,423,6,Redes Sociais,Não,Não,Sexta,Mobile,Brasília,Sim
+2024-12-25,02:34,/pagina/6,974,2,Google,Sim,Não,Segunda,Desktop,Brasília,Não
+2024-03-27,22:35,/pagina/5,868,10,Email,Não,Sim,Sexta,Desktop,Brasília,Não
+2024-12-07,21:51,/pagina/6,640,1,Google,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-01-29,18:19,/pagina/7,120,6,Redes Sociais,Não,Não,Sexta,Mobile,Curitiba,Sim
+2024-02-05,20:42,/pagina/9,167,1,Google,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-01-22,17:49,/pagina/3,880,8,Referral,Sim,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-07-11,13:18,/pagina/8,120,3,Referral,Sim,Não,Domingo,Mobile,Rio de Janeiro,Sim
+2024-12-29,08:29,/pagina/10,797,8,Email,Não,Sim,Quinta,Desktop,Curitiba,Não
+2024-07-19,14:54,/pagina/9,182,7,Redes Sociais,Sim,Não,Quinta,Mobile,São Paulo,Sim
+2024-07-02,01:50,/pagina/2,849,3,Email,Sim,Sim,Quarta,Desktop,São Paulo,Sim
+2024-01-23,01:16,/pagina/8,463,7,Google,Não,Não,Domingo,Mobile,Curitiba,Não
+2024-02-23,13:33,/pagina/5,726,4,Redes Sociais,Sim,Não,Terça,Desktop,Curitiba,Não
+2024-05-06,04:46,/pagina/7,637,1,Referral,Não,Não,Quarta,Desktop,São Paulo,Não
+2024-04-21,06:29,/pagina/6,509,2,Email,Sim,Sim,Segunda,Desktop,São Paulo,Sim
+2024-12-27,10:14,/pagina/6,773,2,Redes Sociais,Sim,Sim,Domingo,Mobile,Curitiba,Não
+2024-08-06,22:30,/pagina/10,366,3,Redes Sociais,Sim,Sim,Quinta,Mobile,São Paulo,Não
+2024-07-27,22:07,/pagina/7,425,4,Redes Sociais,Sim,Não,Quarta,Desktop,São Paulo,Sim
+2024-12-24,10:55,/pagina/10,583,1,Referral,Não,Não,Quinta,Mobile,Curitiba,Sim
+2024-06-30,23:47,/pagina/2,424,7,Redes Sociais,Sim,Sim,Segunda,Mobile,Curitiba,Sim
+2024-10-26,09:10,/pagina/9,835,4,Email,Não,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-03-08,06:27,/pagina/4,638,9,Google,Não,Sim,Sábado,Mobile,São Paulo,Não
+2024-07-09,19:37,/pagina/7,176,6,Referral,Sim,Não,Segunda,Mobile,São Paulo,Sim
+2024-07-13,23:08,/pagina/5,433,9,Email,Sim,Não,Domingo,Mobile,Curitiba,Não
+2024-11-05,01:39,/pagina/5,972,6,Referral,Não,Não,Quarta,Desktop,Brasília,Não
+2024-01-21,13:40,/pagina/9,792,9,Redes Sociais,Sim,Não,Terça,Mobile,Brasília,Sim
+2024-04-30,00:46,/pagina/4,642,2,Google,Não,Sim,Domingo,Desktop,Brasília,Sim
+2024-08-26,12:05,/pagina/5,751,5,Google,Não,Não,Segunda,Mobile,Rio de Janeiro,Não
+2024-07-05,02:56,/pagina/7,541,1,Referral,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Sim
+2024-12-09,03:06,/pagina/1,630,5,Google,Não,Não,Segunda,Mobile,Curitiba,Não
+2024-02-07,00:32,/pagina/6,863,6,Referral,Não,Sim,Quarta,Mobile,Curitiba,Não
+2024-06-12,08:46,/pagina/9,627,9,Redes Sociais,Não,Sim,Terça,Desktop,Brasília,Não
+2024-09-30,02:07,/pagina/7,992,3,Redes Sociais,Não,Não,Sábado,Desktop,Brasília,Sim
+2024-09-10,08:49,/pagina/9,206,4,Email,Sim,Sim,Quinta,Desktop,Curitiba,Não
+2024-03-12,09:21,/pagina/10,679,1,Redes Sociais,Sim,Sim,Terça,Desktop,São Paulo,Não
+2024-10-23,22:16,/pagina/2,935,8,Google,Não,Não,Domingo,Desktop,São Paulo,Sim
+2024-05-27,23:21,/pagina/7,444,6,Email,Sim,Sim,Quinta,Desktop,Curitiba,Sim
+2024-05-20,03:43,/pagina/8,489,7,Google,Não,Sim,Sexta,Desktop,Rio de Janeiro,Não
+2024-01-06,07:42,/pagina/10,230,5,Google,Sim,Sim,Quinta,Mobile,Curitiba,Sim
+2024-03-10,01:59,/pagina/3,278,1,Email,Sim,Sim,Sábado,Desktop,São Paulo,Sim
+2024-02-13,09:23,/pagina/1,202,9,Redes Sociais,Não,Não,Terça,Desktop,Rio de Janeiro,Sim
+2024-03-28,05:52,/pagina/8,335,3,Redes Sociais,Sim,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-06-02,02:48,/pagina/5,659,2,Redes Sociais,Não,Não,Terça,Mobile,São Paulo,Sim
+2024-02-28,02:58,/pagina/2,147,6,Referral,Não,Não,Segunda,Mobile,Brasília,Sim
+2024-06-12,23:27,/pagina/10,643,2,Email,Não,Sim,Sexta,Desktop,Brasília,Sim
+2024-10-01,02:51,/pagina/2,704,10,Google,Não,Sim,Terça,Desktop,Rio de Janeiro,Não
+2024-04-09,21:53,/pagina/8,429,1,Referral,Sim,Não,Sábado,Mobile,Curitiba,Não
+2024-06-24,07:12,/pagina/2,232,2,Redes Sociais,Não,Não,Sábado,Mobile,Rio de Janeiro,Não
+2024-03-25,16:44,/pagina/8,986,6,Email,Não,Sim,Quarta,Mobile,São Paulo,Não
+2024-11-22,00:55,/pagina/9,414,5,Google,Sim,Sim,Terça,Desktop,Brasília,Sim
+2024-05-04,20:55,/pagina/10,581,1,Referral,Não,Não,Domingo,Desktop,Curitiba,Não
+2024-07-30,11:08,/pagina/4,604,2,Referral,Não,Sim,Quarta,Desktop,Curitiba,Sim
+2024-02-02,14:53,/pagina/10,663,1,Redes Sociais,Não,Não,Sábado,Desktop,Brasília,Não
+2024-04-28,06:53,/pagina/3,689,5,Google,Sim,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-01-18,12:18,/pagina/2,583,5,Redes Sociais,Não,Não,Quinta,Desktop,Rio de Janeiro,Não
+2024-01-28,17:43,/pagina/10,997,2,Google,Sim,Sim,Terça,Mobile,Brasília,Sim
+2024-03-16,15:55,/pagina/6,721,6,Email,Sim,Sim,Domingo,Desktop,Brasília,Sim
+2024-11-13,10:00,/pagina/9,131,3,Redes Sociais,Sim,Sim,Domingo,Mobile,Brasília,Sim
+2024-08-22,15:13,/pagina/7,820,6,Google,Sim,Sim,Sábado,Mobile,Brasília,Não
+2024-09-09,13:45,/pagina/7,918,8,Redes Sociais,Não,Não,Quarta,Desktop,Rio de Janeiro,Sim
+2024-06-23,03:43,/pagina/5,103,7,Referral,Não,Sim,Quinta,Mobile,São Paulo,Não
+2024-05-01,15:23,/pagina/9,860,6,Referral,Sim,Sim,Terça,Mobile,Brasília,Não
+2024-06-06,05:20,/pagina/7,339,3,Referral,Sim,Sim,Sexta,Desktop,São Paulo,Não
+2024-05-21,19:49,/pagina/1,331,8,Referral,Não,Não,Sábado,Mobile,Rio de Janeiro,Sim
+2024-07-30,01:10,/pagina/5,861,3,Google,Sim,Sim,Sábado,Mobile,Curitiba,Sim
+2024-02-15,18:41,/pagina/4,428,8,Google,Não,Sim,Quarta,Desktop,Brasília,Não
+2024-08-05,13:57,/pagina/5,749,7,Redes Sociais,Sim,Não,Segunda,Mobile,São Paulo,Sim
+2024-10-27,13:19,/pagina/10,917,6,Referral,Sim,Não,Domingo,Mobile,Rio de Janeiro,Sim
+2024-06-27,08:46,/pagina/4,240,6,Google,Sim,Não,Domingo,Mobile,Brasília,Não
+2024-08-06,01:41,/pagina/7,899,9,Referral,Sim,Não,Terça,Mobile,São Paulo,Sim
+2024-04-28,14:18,/pagina/10,739,10,Email,Não,Não,Quinta,Mobile,Curitiba,Não
+2024-02-03,10:14,/pagina/5,179,3,Referral,Sim,Sim,Quarta,Desktop,Rio de Janeiro,Sim
+2024-05-02,21:12,/pagina/1,149,6,Google,Não,Sim,Quinta,Mobile,Curitiba,Sim
+2024-03-13,23:32,/pagina/1,113,2,Referral,Não,Sim,Sexta,Desktop,Curitiba,Não
+2024-05-08,08:55,/pagina/8,998,10,Email,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Sim
+2024-01-27,20:08,/pagina/8,347,6,Email,Não,Sim,Sexta,Mobile,Brasília,Sim
+2024-08-16,11:28,/pagina/6,541,9,Redes Sociais,Não,Não,Quinta,Desktop,Curitiba,Não
+2024-08-06,03:43,/pagina/3,548,5,Redes Sociais,Sim,Não,Quarta,Desktop,Curitiba,Sim
+2024-10-09,13:06,/pagina/6,217,9,Referral,Sim,Não,Terça,Mobile,São Paulo,Não
+2024-06-04,02:21,/pagina/4,145,6,Referral,Não,Sim,Sexta,Mobile,Rio de Janeiro,Não
+2024-10-29,13:43,/pagina/4,946,5,Redes Sociais,Sim,Não,Sexta,Desktop,Curitiba,Sim
+2024-09-21,07:22,/pagina/6,103,8,Google,Não,Não,Terça,Desktop,Brasília,Sim
+2024-06-18,20:50,/pagina/3,722,10,Google,Não,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-04-22,17:59,/pagina/7,753,8,Email,Não,Sim,Terça,Mobile,Rio de Janeiro,Não
+2024-03-15,06:17,/pagina/3,275,1,Google,Não,Sim,Domingo,Mobile,Rio de Janeiro,Sim
+2024-01-14,14:54,/pagina/2,441,3,Redes Sociais,Sim,Sim,Domingo,Mobile,Curitiba,Sim
+2024-12-13,06:53,/pagina/1,401,3,Email,Não,Não,Domingo,Desktop,Brasília,Não
+2024-10-01,09:45,/pagina/1,415,8,Referral,Sim,Sim,Sábado,Mobile,Brasília,Sim
+2024-05-22,22:25,/pagina/2,496,6,Email,Sim,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-08-25,10:00,/pagina/7,580,7,Redes Sociais,Não,Não,Segunda,Desktop,Brasília,Não
+2024-11-18,14:00,/pagina/6,237,8,Redes Sociais,Sim,Sim,Sexta,Mobile,São Paulo,Não
+2024-02-07,05:27,/pagina/2,941,8,Redes Sociais,Não,Não,Domingo,Mobile,Brasília,Sim
+2024-03-15,05:14,/pagina/6,756,8,Google,Sim,Não,Domingo,Mobile,Brasília,Não
+2024-03-26,05:24,/pagina/10,741,6,Redes Sociais,Não,Sim,Segunda,Mobile,Curitiba,Sim
+2024-07-30,22:02,/pagina/5,795,9,Redes Sociais,Não,Não,Domingo,Desktop,Curitiba,Não
+2024-12-25,01:21,/pagina/3,808,5,Redes Sociais,Sim,Sim,Segunda,Desktop,São Paulo,Não
+2024-02-05,17:11,/pagina/10,900,7,Google,Não,Sim,Quinta,Mobile,São Paulo,Não
+2024-12-13,22:36,/pagina/2,834,7,Referral,Sim,Sim,Quarta,Desktop,São Paulo,Não
+2024-10-26,01:45,/pagina/5,106,8,Email,Sim,Não,Sexta,Mobile,Brasília,Sim
+2024-05-15,04:23,/pagina/1,333,8,Email,Sim,Não,Terça,Desktop,São Paulo,Não
+2024-09-08,13:11,/pagina/3,465,8,Email,Não,Não,Sábado,Desktop,Curitiba,Não
+2024-09-28,08:05,/pagina/8,212,8,Email,Sim,Não,Sábado,Mobile,Rio de Janeiro,Não
+2024-12-26,15:39,/pagina/2,349,2,Email,Sim,Sim,Terça,Desktop,Brasília,Sim
+2024-09-16,17:30,/pagina/2,303,7,Email,Sim,Não,Terça,Desktop,Brasília,Não
+2024-01-17,18:14,/pagina/9,268,8,Google,Não,Não,Terça,Desktop,Curitiba,Sim
+2024-01-24,22:27,/pagina/3,421,2,Redes Sociais,Sim,Sim,Segunda,Mobile,Curitiba,Sim
+2024-09-02,19:55,/pagina/2,703,6,Redes Sociais,Sim,Não,Sexta,Mobile,Brasília,Sim
+2024-06-17,09:12,/pagina/2,489,6,Email,Não,Sim,Domingo,Desktop,Brasília,Não
+2024-12-18,10:15,/pagina/10,153,2,Email,Não,Não,Quarta,Mobile,Rio de Janeiro,Sim
+2024-08-19,02:21,/pagina/7,491,6,Email,Sim,Sim,Sexta,Desktop,Curitiba,Sim
+2024-12-22,12:54,/pagina/10,484,5,Google,Sim,Não,Terça,Mobile,São Paulo,Sim
+2024-12-15,02:20,/pagina/3,858,2,Referral,Não,Sim,Quarta,Desktop,Brasília,Não
+2024-11-19,01:53,/pagina/8,951,3,Referral,Sim,Não,Domingo,Desktop,Brasília,Não
+2024-10-21,12:22,/pagina/4,899,7,Email,Sim,Sim,Segunda,Desktop,São Paulo,Sim
+2024-03-11,04:18,/pagina/10,196,10,Redes Sociais,Não,Não,Terça,Mobile,Curitiba,Sim
+2024-11-10,21:15,/pagina/9,777,2,Referral,Não,Sim,Sexta,Desktop,Curitiba,Sim
+2024-01-06,18:50,/pagina/10,855,8,Referral,Sim,Não,Quinta,Mobile,Rio de Janeiro,Sim
+2024-12-28,12:30,/pagina/8,669,6,Email,Sim,Sim,Sábado,Mobile,Rio de Janeiro,Sim
+2024-10-13,15:42,/pagina/2,924,8,Google,Sim,Não,Sexta,Mobile,Rio de Janeiro,Não
+2024-01-12,21:38,/pagina/3,727,6,Redes Sociais,Não,Sim,Domingo,Mobile,São Paulo,Sim
+2024-04-04,18:14,/pagina/9,333,2,Email,Sim,Sim,Segunda,Mobile,Brasília,Sim
+2024-05-17,09:01,/pagina/7,900,5,Google,Sim,Sim,Terça,Desktop,Brasília,Sim
+2024-07-27,09:13,/pagina/5,800,10,Referral,Não,Não,Quarta,Desktop,Brasília,Não
+2024-03-10,04:39,/pagina/10,479,7,Referral,Não,Não,Sexta,Desktop,São Paulo,Não
+2024-01-05,06:33,/pagina/2,723,9,Redes Sociais,Não,Sim,Sexta,Desktop,Brasília,Sim
+2024-04-06,17:20,/pagina/10,930,1,Google,Sim,Sim,Quarta,Mobile,Rio de Janeiro,Sim
+2024-11-04,03:08,/pagina/1,412,2,Email,Sim,Sim,Sexta,Mobile,Rio de Janeiro,Sim
+2024-05-16,04:00,/pagina/4,553,5,Google,Não,Sim,Sábado,Mobile,Rio de Janeiro,Sim
+2024-05-13,00:22,/pagina/1,847,2,Email,Sim,Sim,Domingo,Desktop,Curitiba,Não
+2024-09-23,00:42,/pagina/4,218,9,Redes Sociais,Sim,Não,Domingo,Mobile,São Paulo,Não
+2024-12-27,13:30,/pagina/5,624,6,Email,Sim,Sim,Segunda,Mobile,Rio de Janeiro,Não
+2024-08-06,04:30,/pagina/7,485,10,Email,Sim,Sim,Sábado,Desktop,Brasília,Não
+2024-04-12,19:44,/pagina/3,363,7,Referral,Não,Não,Sábado,Desktop,Curitiba,Sim
+2024-06-29,10:42,/pagina/7,714,1,Email,Sim,Sim,Sábado,Mobile,Rio de Janeiro,Sim
+2024-11-01,07:38,/pagina/10,689,7,Google,Não,Sim,Domingo,Desktop,São Paulo,Sim
+2024-10-25,08:10,/pagina/3,894,8,Google,Sim,Não,Terça,Mobile,São Paulo,Sim
+2024-01-27,20:20,/pagina/10,299,5,Redes Sociais,Sim,Sim,Domingo,Mobile,Curitiba,Sim
+2024-11-07,13:08,/pagina/7,899,10,Email,Não,Não,Quinta,Desktop,Brasília,Sim
+2024-09-01,11:15,/pagina/1,408,1,Redes Sociais,Sim,Sim,Domingo,Mobile,São Paulo,Não
+2024-08-08,07:40,/pagina/9,735,8,Redes Sociais,Não,Não,Domingo,Mobile,Curitiba,Sim
+2024-10-04,21:31,/pagina/3,270,5,Redes Sociais,Sim,Sim,Sábado,Desktop,Brasília,Não
+2024-10-16,18:35,/pagina/10,445,6,Email,Sim,Sim,Segunda,Desktop,São Paulo,Sim
+2024-07-12,22:39,/pagina/2,783,2,Email,Não,Sim,Sábado,Mobile,Rio de Janeiro,Não
+2024-10-06,14:33,/pagina/8,153,2,Google,Sim,Não,Quinta,Mobile,Brasília,Sim
+2024-05-24,16:44,/pagina/6,698,1,Email,Sim,Sim,Domingo,Mobile,Brasília,Não
+2024-11-17,03:52,/pagina/5,223,1,Google,Sim,Sim,Segunda,Desktop,Curitiba,Sim
+2024-06-15,00:48,/pagina/4,211,3,Google,Sim,Não,Quarta,Desktop,Brasília,Sim
+2024-11-16,18:09,/pagina/3,884,2,Email,Não,Sim,Quinta,Desktop,São Paulo,Sim
+2024-05-20,23:07,/pagina/3,683,5,Referral,Sim,Não,Segunda,Mobile,Curitiba,Sim
+2024-07-08,10:48,/pagina/8,332,8,Referral,Sim,Sim,Sexta,Mobile,São Paulo,Sim
+2024-11-20,07:12,/pagina/7,109,1,Email,Sim,Sim,Quarta,Desktop,Rio de Janeiro,Não
+2024-06-11,14:28,/pagina/9,933,7,Email,Sim,Sim,Terça,Desktop,Curitiba,Não
+2024-02-07,08:41,/pagina/3,347,2,Email,Sim,Não,Quarta,Desktop,Rio de Janeiro,Não
+2024-05-09,11:18,/pagina/2,545,9,Google,Sim,Sim,Quarta,Mobile,Curitiba,Sim
+2024-01-14,09:36,/pagina/10,662,4,Referral,Não,Sim,Quarta,Desktop,Brasília,Sim
+2024-12-24,07:26,/pagina/2,641,6,Google,Sim,Sim,Terça,Desktop,São Paulo,Não
+2024-09-19,04:29,/pagina/10,687,3,Redes Sociais,Não,Sim,Segunda,Desktop,Brasília,Não
+2024-02-01,09:04,/pagina/10,184,3,Redes Sociais,Não,Não,Sábado,Mobile,São Paulo,Sim
+2024-12-03,02:50,/pagina/3,763,8,Google,Sim,Não,Sexta,Desktop,Brasília,Sim
+2024-06-02,22:31,/pagina/2,757,10,Redes Sociais,Não,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-10-08,11:30,/pagina/3,978,4,Redes Sociais,Sim,Não,Sexta,Desktop,Rio de Janeiro,Sim
+2024-02-19,14:24,/pagina/1,361,3,Redes Sociais,Não,Não,Quinta,Mobile,Curitiba,Não
+2024-06-22,05:45,/pagina/3,936,8,Email,Sim,Sim,Terça,Desktop,Brasília,Sim
+2024-12-01,12:26,/pagina/8,348,9,Redes Sociais,Não,Sim,Domingo,Desktop,Brasília,Não
+2024-01-01,13:56,/pagina/8,450,2,Redes Sociais,Não,Não,Sábado,Mobile,Curitiba,Não
+2024-10-31,16:41,/pagina/5,288,8,Redes Sociais,Sim,Sim,Quinta,Mobile,Brasília,Não
+2024-11-22,10:56,/pagina/4,827,5,Google,Não,Não,Sexta,Mobile,Brasília,Sim
+2024-06-07,18:07,/pagina/1,177,8,Redes Sociais,Não,Sim,Sexta,Desktop,São Paulo,Sim
+2024-01-24,20:18,/pagina/3,401,3,Referral,Sim,Não,Quarta,Desktop,Curitiba,Não
+2024-06-22,03:11,/pagina/3,764,6,Referral,Não,Não,Quarta,Mobile,Rio de Janeiro,Sim
+2024-04-22,21:52,/pagina/10,395,7,Redes Sociais,Sim,Sim,Segunda,Desktop,Curitiba,Sim
+2024-09-04,16:18,/pagina/3,402,1,Google,Não,Sim,Quarta,Desktop,Curitiba,Não
+2024-05-24,01:05,/pagina/7,136,5,Referral,Sim,Sim,Domingo,Mobile,Brasília,Não
+2024-11-19,05:35,/pagina/4,839,1,Google,Sim,Não,Quinta,Mobile,Curitiba,Sim
+2024-04-02,08:21,/pagina/7,199,7,Email,Sim,Não,Quarta,Mobile,Rio de Janeiro,Sim
+2024-09-24,23:41,/pagina/2,789,2,Redes Sociais,Sim,Sim,Quarta,Mobile,São Paulo,Sim
+2024-11-04,02:03,/pagina/9,595,6,Referral,Não,Não,Domingo,Mobile,Brasília,Não
+2024-06-24,08:38,/pagina/7,830,7,Redes Sociais,Sim,Sim,Quinta,Desktop,Brasília,Sim
+2024-01-25,11:06,/pagina/7,738,6,Redes Sociais,Sim,Sim,Quarta,Mobile,Rio de Janeiro,Sim
+2024-05-12,01:41,/pagina/1,335,6,Email,Sim,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-02-11,03:29,/pagina/9,639,9,Referral,Sim,Sim,Terça,Mobile,Brasília,Não
+2024-11-01,18:27,/pagina/4,540,3,Email,Não,Não,Sexta,Mobile,Curitiba,Sim
+2024-05-12,12:07,/pagina/2,476,9,Referral,Não,Não,Sexta,Desktop,Brasília,Não
+2024-02-22,14:40,/pagina/6,514,4,Redes Sociais,Sim,Sim,Sexta,Mobile,São Paulo,Sim
+2024-09-16,23:41,/pagina/2,189,3,Google,Não,Não,Segunda,Mobile,São Paulo,Sim
+2024-01-15,19:44,/pagina/4,554,8,Email,Sim,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-12-29,16:20,/pagina/3,245,3,Referral,Sim,Não,Sexta,Mobile,Brasília,Não
+2024-06-21,02:42,/pagina/9,772,5,Referral,Não,Sim,Domingo,Desktop,São Paulo,Sim
+2024-12-28,02:59,/pagina/4,850,1,Redes Sociais,Não,Sim,Sábado,Desktop,Curitiba,Sim
+2024-02-25,00:38,/pagina/7,636,4,Redes Sociais,Não,Sim,Domingo,Mobile,Brasília,Não
+2024-05-07,01:18,/pagina/6,689,6,Google,Não,Não,Domingo,Desktop,Curitiba,Sim
+2024-12-28,19:53,/pagina/2,388,5,Referral,Sim,Sim,Domingo,Desktop,Curitiba,Sim
+2024-06-17,05:58,/pagina/8,706,9,Referral,Não,Não,Terça,Mobile,Brasília,Não
+2024-09-07,23:19,/pagina/3,306,2,Redes Sociais,Não,Não,Quarta,Mobile,Brasília,Sim
+2024-10-04,20:42,/pagina/6,320,7,Google,Não,Sim,Quarta,Mobile,Curitiba,Não
+2024-09-24,00:50,/pagina/2,917,10,Email,Sim,Não,Quinta,Mobile,Brasília,Não
+2024-12-08,01:27,/pagina/6,202,6,Google,Não,Não,Sábado,Mobile,São Paulo,Sim
+2024-12-29,19:34,/pagina/10,360,6,Email,Não,Não,Domingo,Desktop,Curitiba,Sim
+2024-08-27,17:33,/pagina/9,127,5,Referral,Sim,Não,Segunda,Desktop,Curitiba,Sim
+2024-05-29,19:39,/pagina/10,114,9,Redes Sociais,Sim,Não,Quarta,Mobile,Rio de Janeiro,Não
+2024-09-22,13:35,/pagina/9,833,9,Google,Não,Não,Terça,Mobile,Rio de Janeiro,Não
+2024-09-11,00:00,/pagina/10,830,7,Google,Não,Sim,Quinta,Mobile,Brasília,Não
+2024-05-03,00:01,/pagina/2,186,6,Google,Sim,Sim,Sexta,Desktop,Rio de Janeiro,Não
+2024-12-20,05:11,/pagina/9,491,4,Redes Sociais,Sim,Não,Segunda,Mobile,São Paulo,Sim
+2024-10-22,17:29,/pagina/4,678,3,Redes Sociais,Sim,Sim,Segunda,Mobile,Curitiba,Sim
+2024-03-13,18:17,/pagina/10,976,4,Redes Sociais,Sim,Não,Terça,Desktop,São Paulo,Não
+2024-07-26,00:23,/pagina/2,560,3,Redes Sociais,Sim,Sim,Sábado,Desktop,Curitiba,Sim
+2024-06-10,19:59,/pagina/5,413,4,Referral,Sim,Sim,Quinta,Desktop,Rio de Janeiro,Não
+2024-09-24,03:45,/pagina/8,529,9,Google,Sim,Sim,Terça,Mobile,Curitiba,Sim
+2024-10-08,00:59,/pagina/4,542,10,Redes Sociais,Não,Não,Quarta,Mobile,Brasília,Não
+2024-09-19,07:18,/pagina/10,808,6,Referral,Sim,Não,Segunda,Desktop,São Paulo,Não
+2024-09-08,01:53,/pagina/2,151,4,Email,Sim,Sim,Domingo,Mobile,Rio de Janeiro,Sim
+2024-10-19,01:48,/pagina/7,467,4,Google,Sim,Sim,Quarta,Mobile,São Paulo,Sim
+2024-07-24,16:07,/pagina/8,343,2,Redes Sociais,Sim,Sim,Domingo,Mobile,Curitiba,Sim
+2024-10-08,23:18,/pagina/6,479,3,Redes Sociais,Sim,Não,Segunda,Mobile,Curitiba,Sim
+2024-04-02,19:19,/pagina/5,636,1,Google,Sim,Não,Sexta,Mobile,São Paulo,Sim
+2024-05-01,18:49,/pagina/8,987,7,Redes Sociais,Não,Não,Quinta,Desktop,Curitiba,Sim
+2024-07-09,00:08,/pagina/4,367,1,Email,Não,Não,Sábado,Desktop,Rio de Janeiro,Sim
+2024-08-13,08:33,/pagina/10,896,4,Google,Não,Sim,Quinta,Desktop,Brasília,Não
+2024-06-23,16:42,/pagina/8,253,8,Referral,Sim,Não,Sábado,Desktop,Rio de Janeiro,Sim
+2024-03-13,11:20,/pagina/3,124,2,Redes Sociais,Não,Não,Segunda,Mobile,Brasília,Sim
+2024-06-29,10:13,/pagina/1,653,5,Google,Sim,Não,Quinta,Desktop,Curitiba,Sim
+2024-09-24,02:17,/pagina/4,413,1,Redes Sociais,Não,Sim,Sábado,Desktop,São Paulo,Sim
+2024-08-08,19:46,/pagina/4,102,9,Redes Sociais,Sim,Não,Quinta,Mobile,Brasília,Não
+2024-12-29,09:18,/pagina/10,491,6,Email,Não,Não,Sexta,Mobile,Brasília,Sim
+2024-07-02,18:28,/pagina/2,491,5,Referral,Não,Não,Quarta,Mobile,São Paulo,Sim
+2024-04-16,09:28,/pagina/9,776,8,Referral,Não,Não,Segunda,Desktop,Curitiba,Não
+2024-09-28,00:04,/pagina/4,596,1,Email,Sim,Sim,Quarta,Mobile,Rio de Janeiro,Não
+2024-12-25,08:07,/pagina/7,848,8,Email,Não,Não,Quarta,Mobile,Rio de Janeiro,Não
+2024-08-12,19:08,/pagina/9,611,9,Google,Não,Não,Quarta,Desktop,Brasília,Não
+2024-08-21,04:35,/pagina/6,697,7,Redes Sociais,Sim,Não,Sábado,Desktop,Curitiba,Não
+2024-08-15,00:42,/pagina/10,481,6,Redes Sociais,Não,Não,Segunda,Desktop,Curitiba,Sim
+2024-07-12,00:54,/pagina/9,221,2,Referral,Sim,Sim,Quinta,Mobile,Brasília,Sim
+2024-10-08,05:49,/pagina/9,730,8,Google,Sim,Não,Segunda,Mobile,Rio de Janeiro,Não
+2024-03-13,00:05,/pagina/3,693,2,Google,Sim,Sim,Segunda,Mobile,Brasília,Sim
+2024-04-27,13:28,/pagina/4,272,3,Referral,Não,Não,Segunda,Mobile,São Paulo,Não
+2024-05-08,00:55,/pagina/9,591,6,Redes Sociais,Não,Não,Terça,Mobile,Curitiba,Não
+2024-06-21,21:55,/pagina/8,542,6,Email,Não,Não,Quinta,Mobile,Brasília,Sim
+2024-11-20,19:21,/pagina/9,651,2,Google,Não,Sim,Terça,Desktop,Curitiba,Não
+2024-03-24,10:10,/pagina/9,395,8,Google,Sim,Sim,Terça,Desktop,Curitiba,Sim
+2024-06-10,14:48,/pagina/3,498,6,Referral,Sim,Sim,Segunda,Desktop,Brasília,Não
+2024-11-04,16:27,/pagina/9,357,8,Email,Sim,Não,Sexta,Mobile,Brasília,Sim
+2024-11-25,23:06,/pagina/7,437,5,Google,Não,Sim,Segunda,Desktop,Brasília,Sim
+2024-04-17,05:59,/pagina/3,208,8,Redes Sociais,Sim,Não,Quinta,Mobile,Curitiba,Não
+2024-10-25,08:36,/pagina/1,429,4,Redes Sociais,Não,Sim,Sábado,Mobile,Curitiba,Sim
+2024-09-02,15:38,/pagina/1,799,2,Referral,Não,Não,Sábado,Desktop,Curitiba,Não
+2024-03-11,02:21,/pagina/9,719,8,Redes Sociais,Não,Sim,Segunda,Desktop,São Paulo,Não
+2024-07-30,20:23,/pagina/3,212,10,Google,Não,Não,Sábado,Desktop,São Paulo,Não
+2024-10-20,15:20,/pagina/2,858,4,Email,Sim,Não,Segunda,Mobile,Curitiba,Sim
+2024-12-18,10:19,/pagina/2,226,10,Redes Sociais,Sim,Não,Quarta,Mobile,São Paulo,Sim
+2024-04-30,16:06,/pagina/9,746,8,Referral,Não,Não,Quinta,Mobile,Brasília,Sim
+2024-05-31,11:38,/pagina/10,594,7,Referral,Não,Sim,Terça,Mobile,Curitiba,Não
+2024-10-12,09:53,/pagina/4,499,4,Redes Sociais,Não,Sim,Quarta,Mobile,São Paulo,Não
+2024-09-08,17:50,/pagina/5,718,9,Google,Sim,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-05-15,06:23,/pagina/1,702,3,Google,Sim,Não,Sábado,Mobile,Curitiba,Sim
+2024-08-27,20:25,/pagina/5,468,9,Referral,Não,Não,Sábado,Mobile,Brasília,Sim
+2024-04-07,21:55,/pagina/9,974,1,Redes Sociais,Não,Não,Terça,Mobile,Rio de Janeiro,Não
+2024-12-18,17:44,/pagina/8,906,8,Google,Não,Sim,Sexta,Mobile,São Paulo,Sim
+2024-06-05,04:36,/pagina/6,186,4,Email,Não,Não,Quinta,Mobile,São Paulo,Sim
+2024-01-09,07:47,/pagina/5,150,4,Redes Sociais,Sim,Não,Segunda,Desktop,Rio de Janeiro,Não
+2024-12-03,23:58,/pagina/8,880,1,Google,Não,Sim,Terça,Desktop,Brasília,Não
+2024-02-27,17:21,/pagina/10,410,2,Referral,Não,Não,Segunda,Mobile,Brasília,Sim
+2024-04-15,15:30,/pagina/5,726,9,Redes Sociais,Não,Sim,Sábado,Mobile,Curitiba,Não
+2024-01-03,13:59,/pagina/6,640,8,Referral,Sim,Não,Quinta,Mobile,Curitiba,Não
+2024-07-21,07:18,/pagina/7,255,8,Google,Sim,Não,Quinta,Desktop,São Paulo,Sim
+2024-12-06,06:30,/pagina/9,953,3,Redes Sociais,Sim,Sim,Segunda,Desktop,Curitiba,Não
+2024-11-01,07:58,/pagina/6,776,6,Referral,Sim,Sim,Terça,Mobile,Curitiba,Não
+2024-07-13,01:16,/pagina/6,331,3,Referral,Sim,Não,Terça,Desktop,São Paulo,Não
+2024-12-21,00:34,/pagina/10,420,10,Email,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-12-19,06:54,/pagina/2,376,5,Google,Sim,Sim,Sábado,Desktop,São Paulo,Sim
+2024-02-05,14:20,/pagina/7,520,7,Email,Não,Sim,Sábado,Mobile,Curitiba,Não
+2024-12-04,09:15,/pagina/8,515,2,Email,Sim,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-04-01,00:25,/pagina/6,382,1,Redes Sociais,Não,Não,Quarta,Mobile,Brasília,Sim
+2024-01-19,00:41,/pagina/5,290,5,Redes Sociais,Não,Sim,Quinta,Mobile,Rio de Janeiro,Não
+2024-08-05,02:28,/pagina/10,934,5,Redes Sociais,Não,Não,Segunda,Mobile,Curitiba,Sim
+2024-06-05,03:35,/pagina/7,485,8,Redes Sociais,Não,Sim,Sexta,Mobile,Curitiba,Não
+2024-10-02,15:20,/pagina/7,693,1,Redes Sociais,Não,Sim,Sexta,Mobile,Curitiba,Não
+2024-02-08,22:46,/pagina/5,454,2,Email,Sim,Não,Segunda,Mobile,São Paulo,Não
+2024-11-02,16:18,/pagina/7,556,5,Google,Não,Não,Terça,Mobile,Brasília,Sim
+2024-10-17,10:16,/pagina/5,1000,5,Email,Sim,Sim,Quinta,Desktop,Curitiba,Sim
+2024-02-06,11:17,/pagina/8,888,6,Email,Não,Não,Segunda,Desktop,São Paulo,Sim
+2024-08-01,02:55,/pagina/3,520,3,Redes Sociais,Sim,Não,Segunda,Mobile,Curitiba,Não
+2024-03-14,15:33,/pagina/6,230,2,Referral,Não,Não,Quarta,Desktop,Brasília,Sim
+2024-07-12,11:55,/pagina/7,333,9,Google,Sim,Não,Domingo,Mobile,Brasília,Não
+2024-03-18,13:35,/pagina/2,199,1,Google,Sim,Sim,Domingo,Desktop,Brasília,Sim
+2024-09-24,05:01,/pagina/1,711,6,Google,Não,Não,Sexta,Desktop,Curitiba,Não
+2024-02-21,10:51,/pagina/5,604,4,Redes Sociais,Não,Sim,Segunda,Mobile,Rio de Janeiro,Não
+2024-03-23,14:21,/pagina/4,360,4,Redes Sociais,Não,Não,Terça,Mobile,Rio de Janeiro,Não
+2024-08-14,17:41,/pagina/7,105,6,Google,Sim,Sim,Sábado,Desktop,São Paulo,Não
+2024-12-15,01:33,/pagina/1,826,7,Redes Sociais,Sim,Sim,Sexta,Desktop,Brasília,Não
+2024-09-26,23:10,/pagina/4,581,7,Google,Sim,Sim,Terça,Mobile,Curitiba,Sim
+2024-07-17,15:17,/pagina/9,939,10,Redes Sociais,Sim,Não,Segunda,Mobile,Brasília,Sim
+2024-11-07,05:45,/pagina/9,775,9,Google,Não,Não,Segunda,Desktop,Curitiba,Sim
+2024-06-06,21:25,/pagina/9,291,2,Referral,Não,Sim,Sábado,Desktop,Brasília,Sim
+2024-03-17,08:08,/pagina/7,269,6,Google,Sim,Sim,Sexta,Mobile,Brasília,Não
+2024-05-16,21:24,/pagina/7,662,2,Email,Não,Sim,Sábado,Mobile,Curitiba,Não
+2024-11-07,20:36,/pagina/1,460,5,Email,Sim,Não,Quinta,Mobile,Brasília,Sim
+2024-07-03,22:09,/pagina/5,253,9,Referral,Sim,Não,Domingo,Desktop,Curitiba,Sim
+2024-04-28,06:19,/pagina/6,494,6,Google,Não,Sim,Terça,Mobile,São Paulo,Não
+2024-02-09,19:01,/pagina/2,222,8,Redes Sociais,Não,Sim,Quinta,Mobile,São Paulo,Sim
+2024-01-17,05:54,/pagina/9,659,2,Email,Não,Sim,Sexta,Mobile,Curitiba,Sim
+2024-06-25,17:21,/pagina/10,336,6,Google,Não,Sim,Domingo,Mobile,São Paulo,Não
+2024-06-06,12:40,/pagina/1,609,2,Email,Não,Sim,Terça,Mobile,São Paulo,Não
+2024-09-03,03:36,/pagina/10,580,2,Google,Não,Não,Domingo,Mobile,Curitiba,Não
+2024-06-15,21:33,/pagina/6,117,9,Redes Sociais,Sim,Não,Terça,Desktop,Curitiba,Sim
+2024-09-21,05:12,/pagina/9,868,10,Google,Sim,Sim,Sexta,Desktop,Curitiba,Sim
+2024-04-06,05:35,/pagina/6,970,1,Google,Não,Sim,Segunda,Desktop,Curitiba,Não
+2024-04-11,05:14,/pagina/8,748,1,Redes Sociais,Sim,Sim,Quinta,Desktop,São Paulo,Não
+2024-07-09,00:28,/pagina/7,649,3,Redes Sociais,Não,Não,Sábado,Desktop,Brasília,Não
+2024-09-17,01:56,/pagina/7,812,8,Email,Sim,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-02-03,08:50,/pagina/10,459,8,Email,Sim,Não,Quinta,Mobile,Brasília,Sim
+2024-08-22,03:33,/pagina/6,265,5,Redes Sociais,Não,Não,Sábado,Mobile,São Paulo,Sim
+2024-12-10,02:24,/pagina/1,261,8,Referral,Sim,Não,Quarta,Mobile,Rio de Janeiro,Sim
+2024-08-02,18:49,/pagina/6,180,9,Redes Sociais,Sim,Sim,Domingo,Desktop,São Paulo,Sim
+2024-06-20,11:43,/pagina/10,408,8,Email,Sim,Sim,Domingo,Desktop,Curitiba,Sim
+2024-02-14,19:54,/pagina/5,481,10,Email,Sim,Sim,Domingo,Mobile,Brasília,Não
+2024-08-28,08:26,/pagina/8,768,3,Google,Sim,Não,Terça,Desktop,Curitiba,Sim
+2024-03-25,22:12,/pagina/7,161,3,Google,Não,Sim,Terça,Mobile,Curitiba,Sim
+2024-03-26,02:15,/pagina/10,524,3,Referral,Sim,Sim,Quarta,Desktop,Curitiba,Não
+2024-01-14,04:01,/pagina/6,902,4,Referral,Sim,Sim,Sábado,Mobile,Rio de Janeiro,Não
+2024-02-13,23:13,/pagina/5,835,6,Email,Sim,Sim,Segunda,Mobile,Curitiba,Não
+2024-09-28,18:53,/pagina/8,241,2,Redes Sociais,Não,Não,Terça,Desktop,Brasília,Não
+2024-08-06,02:58,/pagina/4,382,1,Google,Não,Não,Quarta,Mobile,São Paulo,Não
+2024-06-11,12:15,/pagina/6,236,9,Redes Sociais,Sim,Não,Quinta,Desktop,Brasília,Não
+2024-11-10,19:55,/pagina/1,915,3,Email,Sim,Não,Domingo,Mobile,Rio de Janeiro,Sim
+2024-11-10,17:01,/pagina/6,699,9,Google,Sim,Não,Segunda,Desktop,Brasília,Sim
+2024-01-11,23:06,/pagina/7,135,3,Referral,Sim,Sim,Segunda,Mobile,São Paulo,Sim
+2024-01-05,20:56,/pagina/1,288,7,Redes Sociais,Sim,Não,Segunda,Desktop,Rio de Janeiro,Não
+2024-05-07,17:29,/pagina/3,805,10,Referral,Sim,Sim,Terça,Desktop,São Paulo,Não
+2024-08-11,13:20,/pagina/2,724,3,Google,Não,Não,Sábado,Mobile,São Paulo,Não
+2024-09-29,00:59,/pagina/6,918,1,Referral,Sim,Sim,Terça,Desktop,Rio de Janeiro,Não
+2024-06-03,09:30,/pagina/1,179,1,Redes Sociais,Não,Não,Segunda,Mobile,Curitiba,Sim
+2024-11-28,16:45,/pagina/3,820,4,Email,Sim,Não,Segunda,Mobile,Brasília,Sim
+2024-03-06,15:41,/pagina/9,124,5,Referral,Sim,Não,Quarta,Desktop,Brasília,Não
+2024-02-16,20:51,/pagina/7,336,10,Redes Sociais,Não,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-04-16,16:27,/pagina/3,839,6,Referral,Sim,Sim,Sábado,Desktop,São Paulo,Sim
+2024-03-03,15:12,/pagina/9,250,2,Google,Não,Não,Quarta,Desktop,Rio de Janeiro,Sim
+2024-04-13,05:00,/pagina/9,944,9,Redes Sociais,Não,Sim,Segunda,Desktop,São Paulo,Sim
+2024-10-17,00:02,/pagina/2,965,6,Google,Não,Sim,Quarta,Mobile,Brasília,Não
+2024-10-03,23:49,/pagina/7,108,10,Referral,Sim,Não,Sábado,Desktop,Rio de Janeiro,Não
+2024-11-06,02:56,/pagina/10,501,1,Google,Sim,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-11-04,23:39,/pagina/9,498,1,Google,Não,Não,Segunda,Mobile,São Paulo,Não
+2024-07-04,15:27,/pagina/5,911,7,Email,Não,Não,Quinta,Mobile,Brasília,Sim
+2024-03-30,22:32,/pagina/9,326,4,Redes Sociais,Não,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-06-16,19:19,/pagina/2,979,9,Google,Não,Não,Terça,Desktop,Curitiba,Sim
+2024-12-29,13:42,/pagina/7,983,7,Email,Sim,Não,Quinta,Mobile,Curitiba,Sim
+2024-03-18,18:14,/pagina/10,541,4,Redes Sociais,Não,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-03-10,10:16,/pagina/6,491,8,Email,Não,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-10-16,06:53,/pagina/4,468,3,Redes Sociais,Não,Sim,Terça,Desktop,Brasília,Não
+2024-03-24,08:25,/pagina/10,359,7,Referral,Sim,Sim,Domingo,Mobile,Brasília,Sim
+2024-10-07,09:44,/pagina/2,728,10,Referral,Não,Sim,Domingo,Mobile,São Paulo,Não
+2024-03-01,08:48,/pagina/3,851,5,Referral,Sim,Sim,Terça,Mobile,São Paulo,Sim
+2024-01-04,09:02,/pagina/6,978,8,Email,Não,Não,Segunda,Mobile,São Paulo,Não
+2024-08-27,09:41,/pagina/9,389,3,Referral,Não,Sim,Quarta,Mobile,Curitiba,Sim
+2024-09-21,10:05,/pagina/5,380,9,Google,Sim,Sim,Sexta,Mobile,Brasília,Não
+2024-08-15,10:24,/pagina/8,726,8,Redes Sociais,Sim,Sim,Sexta,Desktop,Curitiba,Sim
+2024-05-30,04:18,/pagina/10,723,1,Redes Sociais,Sim,Não,Quinta,Mobile,Brasília,Não
+2024-11-23,04:52,/pagina/3,331,9,Redes Sociais,Não,Sim,Terça,Desktop,Rio de Janeiro,Não
+2024-04-21,16:09,/pagina/4,782,6,Redes Sociais,Sim,Não,Domingo,Mobile,Rio de Janeiro,Não
+2024-10-27,20:11,/pagina/1,852,1,Email,Não,Não,Quinta,Mobile,São Paulo,Sim
+2024-06-05,12:35,/pagina/9,348,10,Google,Sim,Não,Sábado,Mobile,Curitiba,Sim
+2024-02-28,18:13,/pagina/4,176,4,Email,Não,Sim,Terça,Mobile,Rio de Janeiro,Sim
+2024-06-25,18:00,/pagina/2,781,7,Referral,Sim,Sim,Sábado,Mobile,Brasília,Sim
+2024-02-26,07:57,/pagina/3,459,8,Redes Sociais,Sim,Não,Segunda,Desktop,Rio de Janeiro,Sim
+2024-08-05,05:08,/pagina/4,127,7,Redes Sociais,Sim,Sim,Terça,Mobile,Curitiba,Não
+2024-04-12,19:35,/pagina/2,337,8,Google,Não,Não,Sexta,Mobile,Brasília,Sim
+2024-01-16,07:43,/pagina/8,864,10,Redes Sociais,Não,Não,Domingo,Desktop,Curitiba,Não
+2024-11-07,11:25,/pagina/8,331,4,Referral,Sim,Sim,Sábado,Mobile,Brasília,Não
+2024-12-19,00:19,/pagina/7,484,4,Email,Sim,Sim,Quinta,Desktop,Curitiba,Sim
+2024-12-05,20:09,/pagina/2,358,6,Email,Não,Não,Domingo,Mobile,Curitiba,Não
+2024-11-06,19:35,/pagina/10,503,2,Referral,Sim,Não,Sexta,Mobile,Brasília,Sim
+2024-03-06,19:46,/pagina/7,863,8,Google,Não,Sim,Segunda,Desktop,Curitiba,Não
+2024-01-10,09:24,/pagina/5,766,2,Referral,Não,Sim,Quinta,Desktop,Rio de Janeiro,Sim
+2024-09-10,00:50,/pagina/6,836,10,Email,Sim,Não,Sábado,Desktop,Rio de Janeiro,Sim
+2024-01-19,07:37,/pagina/10,227,5,Referral,Sim,Não,Terça,Desktop,Curitiba,Sim
+2024-02-26,05:10,/pagina/4,397,3,Email,Não,Sim,Terça,Desktop,Curitiba,Sim
+2024-10-13,18:00,/pagina/7,185,8,Google,Não,Sim,Sexta,Desktop,Rio de Janeiro,Não
+2024-03-23,12:26,/pagina/3,142,7,Redes Sociais,Não,Não,Domingo,Desktop,Brasília,Sim
+2024-04-19,08:29,/pagina/2,895,4,Referral,Sim,Não,Domingo,Mobile,Brasília,Sim
+2024-10-08,11:47,/pagina/8,829,7,Google,Não,Não,Domingo,Mobile,Brasília,Não
+2024-09-21,17:23,/pagina/8,602,10,Redes Sociais,Sim,Não,Segunda,Mobile,Curitiba,Sim
+2024-06-12,06:12,/pagina/9,630,5,Email,Não,Sim,Quarta,Mobile,Rio de Janeiro,Sim
+2024-09-17,19:42,/pagina/4,937,3,Email,Não,Sim,Segunda,Mobile,São Paulo,Sim
+2024-02-19,17:50,/pagina/8,803,1,Google,Sim,Não,Quarta,Mobile,Brasília,Sim
+2024-04-02,05:58,/pagina/4,745,1,Google,Sim,Sim,Quinta,Mobile,Brasília,Não
+2024-09-04,19:20,/pagina/5,674,4,Email,Sim,Não,Sábado,Mobile,Curitiba,Sim
+2024-05-12,21:36,/pagina/9,543,4,Redes Sociais,Não,Não,Terça,Mobile,Rio de Janeiro,Sim
+2024-11-27,00:36,/pagina/6,780,3,Redes Sociais,Sim,Não,Segunda,Desktop,São Paulo,Não
+2024-10-31,18:45,/pagina/8,428,9,Referral,Não,Não,Quinta,Mobile,São Paulo,Sim
+2024-10-15,19:55,/pagina/5,665,4,Email,Sim,Não,Sábado,Mobile,São Paulo,Não
+2024-07-08,22:38,/pagina/8,170,6,Google,Sim,Sim,Sexta,Desktop,São Paulo,Não
+2024-02-07,21:18,/pagina/7,496,7,Redes Sociais,Não,Sim,Sábado,Desktop,Curitiba,Sim
+2024-04-10,13:14,/pagina/7,264,9,Referral,Sim,Sim,Sexta,Mobile,Curitiba,Não
+2024-04-08,21:33,/pagina/1,414,7,Redes Sociais,Não,Não,Sexta,Desktop,Curitiba,Sim
+2024-10-10,07:58,/pagina/1,850,7,Referral,Sim,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-12-14,02:37,/pagina/10,149,8,Email,Não,Não,Quarta,Desktop,Curitiba,Sim
+2024-01-21,18:38,/pagina/1,117,8,Email,Não,Sim,Quinta,Mobile,Brasília,Não
+2024-10-20,13:20,/pagina/6,811,4,Email,Sim,Sim,Quarta,Desktop,Brasília,Sim
+2024-05-09,18:40,/pagina/2,788,10,Redes Sociais,Não,Sim,Sábado,Desktop,Rio de Janeiro,Sim
+2024-03-01,14:04,/pagina/5,394,3,Google,Sim,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-03-02,21:09,/pagina/7,417,9,Google,Sim,Sim,Terça,Desktop,Curitiba,Sim
+2024-03-05,01:39,/pagina/3,281,1,Google,Sim,Sim,Terça,Desktop,Curitiba,Não
+2024-09-10,07:19,/pagina/8,278,7,Redes Sociais,Não,Não,Domingo,Mobile,Brasília,Sim
+2024-08-14,01:46,/pagina/9,436,3,Redes Sociais,Não,Não,Quinta,Desktop,São Paulo,Não
+2024-12-20,20:01,/pagina/2,314,5,Redes Sociais,Sim,Não,Quarta,Desktop,Brasília,Não
+2024-11-08,05:16,/pagina/2,779,6,Referral,Sim,Não,Terça,Desktop,Brasília,Não
+2024-04-20,21:28,/pagina/9,313,2,Google,Sim,Não,Terça,Mobile,Curitiba,Não
+2024-08-13,14:49,/pagina/9,777,9,Referral,Sim,Sim,Quinta,Desktop,Curitiba,Não
+2024-09-04,14:48,/pagina/6,863,7,Google,Não,Não,Sexta,Mobile,Brasília,Não
+2024-05-04,11:50,/pagina/1,127,6,Redes Sociais,Não,Sim,Sábado,Desktop,São Paulo,Sim
+2024-09-18,03:12,/pagina/10,937,7,Google,Não,Não,Sexta,Mobile,Curitiba,Não
+2024-11-17,14:07,/pagina/5,523,1,Email,Sim,Não,Segunda,Mobile,Rio de Janeiro,Sim
+2024-03-13,04:32,/pagina/6,290,10,Google,Não,Não,Segunda,Mobile,Curitiba,Não
+2024-11-28,18:32,/pagina/3,897,7,Redes Sociais,Não,Não,Domingo,Desktop,Rio de Janeiro,Sim
+2024-11-16,11:28,/pagina/6,847,1,Google,Não,Não,Terça,Mobile,Brasília,Não
+2024-04-28,00:47,/pagina/3,373,7,Referral,Não,Não,Sexta,Desktop,Brasília,Não
+2024-12-26,21:07,/pagina/3,938,8,Referral,Não,Não,Terça,Desktop,São Paulo,Sim
+2024-06-12,22:41,/pagina/5,297,5,Redes Sociais,Sim,Não,Segunda,Desktop,Rio de Janeiro,Sim
+2024-03-15,05:58,/pagina/8,709,10,Email,Sim,Não,Sábado,Mobile,São Paulo,Não
+2024-08-12,02:22,/pagina/2,950,6,Referral,Sim,Não,Sexta,Desktop,São Paulo,Sim
+2024-09-14,16:38,/pagina/2,777,2,Google,Não,Não,Quinta,Desktop,Rio de Janeiro,Não
+2024-03-02,22:03,/pagina/7,431,7,Redes Sociais,Não,Não,Terça,Mobile,Curitiba,Não
+2024-06-29,09:30,/pagina/9,850,3,Email,Sim,Não,Domingo,Mobile,Brasília,Sim
+2024-11-20,14:10,/pagina/8,274,7,Google,Não,Sim,Domingo,Mobile,Curitiba,Não
+2024-06-21,04:48,/pagina/4,693,4,Referral,Não,Não,Quinta,Mobile,São Paulo,Não
+2024-04-29,19:54,/pagina/6,800,8,Google,Sim,Não,Terça,Desktop,Rio de Janeiro,Não
+2024-12-17,15:37,/pagina/10,113,10,Google,Sim,Sim,Sexta,Desktop,Curitiba,Não
+2024-10-18,11:40,/pagina/6,133,3,Email,Não,Sim,Quarta,Desktop,Curitiba,Sim
+2024-06-22,00:22,/pagina/8,503,5,Google,Sim,Sim,Domingo,Mobile,Curitiba,Não
+2024-02-10,00:27,/pagina/6,275,1,Referral,Sim,Não,Quinta,Mobile,Rio de Janeiro,Não
+2024-04-07,20:05,/pagina/4,204,4,Referral,Não,Sim,Domingo,Mobile,Rio de Janeiro,Não
+2024-10-20,16:39,/pagina/10,231,4,Referral,Não,Sim,Domingo,Mobile,São Paulo,Não
+2024-05-05,13:02,/pagina/9,997,9,Email,Não,Sim,Domingo,Desktop,Curitiba,Não
+2024-04-05,18:16,/pagina/8,628,10,Email,Sim,Sim,Segunda,Mobile,Rio de Janeiro,Sim
+2024-11-30,15:59,/pagina/10,597,3,Referral,Sim,Não,Sexta,Mobile,São Paulo,Não
+2024-02-09,15:10,/pagina/1,207,1,Redes Sociais,Não,Sim,Quarta,Mobile,Brasília,Não
+2024-04-12,14:57,/pagina/10,484,5,Email,Sim,Não,Segunda,Desktop,Rio de Janeiro,Não
+2024-06-15,19:51,/pagina/10,932,5,Google,Sim,Não,Sábado,Desktop,Brasília,Sim
+2024-03-31,04:43,/pagina/2,838,6,Google,Sim,Não,Quarta,Desktop,São Paulo,Não
+2024-01-30,20:57,/pagina/2,769,9,Redes Sociais,Não,Não,Quarta,Mobile,São Paulo,Sim
+2024-03-26,21:23,/pagina/7,151,8,Referral,Sim,Sim,Sexta,Mobile,Curitiba,Não
+2024-10-04,17:29,/pagina/7,931,1,Redes Sociais,Não,Não,Domingo,Desktop,São Paulo,Sim
+2024-07-02,12:31,/pagina/3,342,3,Redes Sociais,Sim,Não,Domingo,Desktop,Curitiba,Sim
+2024-11-13,18:40,/pagina/2,827,1,Referral,Sim,Não,Segunda,Mobile,Curitiba,Sim
+2024-01-10,14:13,/pagina/4,578,10,Email,Não,Não,Sexta,Desktop,Rio de Janeiro,Sim
+2024-03-01,11:29,/pagina/5,608,3,Google,Não,Não,Sexta,Desktop,Curitiba,Sim
+2024-06-04,11:30,/pagina/9,859,2,Email,Sim,Sim,Domingo,Desktop,São Paulo,Não
+2024-05-19,18:18,/pagina/4,548,1,Google,Não,Sim,Domingo,Desktop,Curitiba,Sim
+2024-11-15,18:52,/pagina/9,406,8,Redes Sociais,Sim,Sim,Quarta,Mobile,Curitiba,Não
+2024-04-02,03:32,/pagina/6,373,2,Google,Sim,Não,Sexta,Mobile,São Paulo,Sim
+2024-06-19,20:39,/pagina/3,989,4,Email,Sim,Não,Segunda,Desktop,Curitiba,Não
+2024-12-04,07:34,/pagina/9,132,8,Google,Não,Não,Segunda,Desktop,Rio de Janeiro,Não
+2024-10-28,05:05,/pagina/9,510,5,Email,Sim,Sim,Quinta,Desktop,Brasília,Não
+2024-04-13,20:16,/pagina/9,312,9,Redes Sociais,Não,Não,Sábado,Mobile,Rio de Janeiro,Não
+2024-07-22,22:36,/pagina/8,531,1,Referral,Sim,Não,Domingo,Desktop,São Paulo,Sim
+2024-09-17,03:10,/pagina/7,105,10,Redes Sociais,Sim,Não,Segunda,Mobile,São Paulo,Não
+2024-12-31,04:11,/pagina/7,800,2,Google,Sim,Não,Terça,Desktop,Rio de Janeiro,Sim
+2024-07-30,22:17,/pagina/3,412,2,Email,Não,Não,Terça,Mobile,Curitiba,Sim
+2024-03-18,13:07,/pagina/4,886,4,Google,Não,Sim,Domingo,Desktop,Rio de Janeiro,Sim
+2024-03-24,11:35,/pagina/2,593,8,Redes Sociais,Sim,Não,Quinta,Desktop,Rio de Janeiro,Sim
+2024-10-25,19:21,/pagina/5,868,9,Referral,Não,Sim,Sábado,Mobile,Rio de Janeiro,Sim
+2024-01-24,21:03,/pagina/7,805,9,Redes Sociais,Sim,Sim,Domingo,Mobile,Rio de Janeiro,Não
+2024-08-12,02:24,/pagina/7,428,3,Redes Sociais,Sim,Sim,Segunda,Mobile,Curitiba,Sim
+2024-05-04,15:11,/pagina/7,331,3,Redes Sociais,Sim,Não,Segunda,Mobile,Rio de Janeiro,Não
